@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "confuse", "author": "hotfire"}, "portals": {}, "fields": {}, "switches": {"8,19": {"toggle": [{"pos": {"y": 20, "x": 5}}, {"pos": {"y": 19, "x": 5}}], "timer": 0}, "50,19": {"toggle": [{"pos": {"y": 20, "x": 53}}, {"pos": {"y": 19, "x": 53}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

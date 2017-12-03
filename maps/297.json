@@ -1,0 +1,1 @@
+{"info": {"name": "Meatball", "author": "Snowball"}, "switches": {"24,30": {"toggle": [{"pos": {"y": 28, "x": 21}}]}, "20,30": {"toggle": [{"pos": {"y": 28, "x": 23}}]}}, "portals": {"22,8": {"destination": {"y": 8, "x": 22}}, "28,12": {"destination": {"y": 8, "x": 22}}, "16,12": {"destination": {"y": 8, "x": 22}}}, "fields": {}}

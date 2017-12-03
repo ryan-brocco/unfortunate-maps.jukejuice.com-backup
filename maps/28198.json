@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Happy Crab", "author": "Atypop"}, "portals": {}, "fields": {}, "switches": {"30,18": {"toggle": [{"pos": {"y": 19, "x": 27}}], "timer": 0}, "20,18": {"toggle": [{"pos": {"y": 19, "x": 23}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

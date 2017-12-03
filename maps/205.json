@@ -1,0 +1,1 @@
+{"info": {"name": "Corner Ball", "author": "Equ1"}, "switches": {"28,4": {"toggle": []}, "29,6": {"toggle": []}, "19,42": {"toggle": []}, "19,46": {"toggle": []}, "20,44": {"toggle": []}, "29,2": {"toggle": []}}, "portals": {}, "fields": {"27,46": {"defaultState": "blue"}, "11,6": {"defaultState": "red"}, "21,2": {"defaultState": "red"}, "37,42": {"defaultState": "blue"}}}

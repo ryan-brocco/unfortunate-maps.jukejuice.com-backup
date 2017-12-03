@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "bring back velkin map", "author": "velkin"}, "portals": {}, "fields": {}, "switches": {"38,21": {"toggle": [{"pos": {"y": 25, "x": 38}}, {"pos": {"y": 25, "x": 37}}], "timer": 0}, "32,21": {"toggle": [{"pos": {"y": 17, "x": 32}}, {"pos": {"y": 17, "x": 33}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

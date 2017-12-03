@@ -1,0 +1,1 @@
+{"info": {"name": "DOOM", "author": "Loaha"}, "switches": {"21,6": {"toggle": [{"pos": {"y": 8, "x": 23}}]}, "25,14": {"toggle": [{"pos": {"y": 12, "x": 23}}, {"pos": {"y": 21, "x": 23}}]}, "25,6": {"toggle": [{"pos": {"y": 8, "x": 23}}]}, "21,14": {"toggle": [{"pos": {"y": 12, "x": 23}}, {"pos": {"y": 21, "x": 23}}]}}, "portals": {}, "fields": {"23,21": {"defaultState": "off"}}}

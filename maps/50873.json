@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Ripple", "author": "Ball-E, Risk, Ping Tut"}, "portals": {}, "fields": {}, "switches": {"52,15": {"toggle": [{"pos": {"y": 21, "x": 57}}], "timer": 0}, "8,15": {"toggle": [{"pos": {"y": 21, "x": 3}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

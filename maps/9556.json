@@ -1,0 +1,1 @@
+{"info": {"name": "Lucky Spawn", "author": "Ballsed up"}, "switches": {}, "portals": {"33,12": {"destination": {"y": 12, "x": 33}}, "30,12": {"destination": {"y": 12, "x": 30}}, "17,12": {"destination": {"y": 12, "x": 17}}, "20,12": {"destination": {"y": 12, "x": 20}}}, "fields": {"21,12": {"defaultState": "red"}, "29,12": {"defaultState": "blue"}}}

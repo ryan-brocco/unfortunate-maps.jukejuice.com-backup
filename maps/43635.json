@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Tombo", "author": "DragonBeast"}, "portals": {}, "fields": {}, "switches": {"17,57": {"toggle": [{"pos": {"y": 58, "x": 17}}], "timer": 0}, "29,9": {"toggle": [{"pos": {"y": 8, "x": 29}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

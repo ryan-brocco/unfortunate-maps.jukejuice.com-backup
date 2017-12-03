@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Sentinel", "author": "Superdiglett"}, "portals": {"2,2": {"destination": {"y": 13, "x": 13}, "cooldown": 0}, "13,13": {}, "52,34": {"destination": {"y": 23, "x": 41}, "cooldown": 0}, "41,23": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

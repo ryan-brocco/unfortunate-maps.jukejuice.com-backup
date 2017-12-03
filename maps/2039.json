@@ -1,0 +1,1 @@
+{"info": {"name": "Wrench", "author": "Prizm"}, "switches": {"24,11": {"toggle": [{"pos": {"y": 17, "x": 27}}]}, "25,18": {"toggle": [{"pos": {"y": 12, "x": 22}}]}}, "portals": {}, "fields": {"26,16": {"defaultState": "on"}, "25,15": {"defaultState": "on"}, "24,14": {"defaultState": "on"}, "23,13": {"defaultState": "on"}}}

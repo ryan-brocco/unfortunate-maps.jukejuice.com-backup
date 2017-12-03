@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Plaza", "author": "Snack"}, "portals": {}, "fields": {"26,13": {"defaultState": "off"}, "28,15": {"defaultState": "off"}}, "switches": {"23,7": {"toggle": [], "timer": 0}, "31,21": {"toggle": [{"pos": {"y": 15, "x": 28}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "2:24", "author": "Ping Tut"}, "portals": {"12,11": {"cooldown": 3000, "destination": {"y": 20, "x": 5}}, "38,11": {"cooldown": 3000, "destination": {"y": 20, "x": 45}}, "45,20": {"cooldown": 3000}, "5,20": {"cooldown": 3000}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Perchance", "author": "Carboxyl"}, "portals": {}, "fields": {}, "switches": {"54,13": {"toggle": [{"pos": {"y": 12, "x": 55}}], "timer": 0}, "6,13": {"toggle": [{"pos": {"y": 12, "x": 5}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

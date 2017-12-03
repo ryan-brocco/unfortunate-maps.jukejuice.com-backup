@@ -1,0 +1,1 @@
+{"info": {"name": "Pulsar", "author": "Ball-E"}, "switches": {}, "portals": {"40,32": {"cooldown": 0, "destination": {"y": 24, "x": 40}}, "26,14": {"cooldown": 0, "destination": {"y": 19, "x": 32}}, "26,6": {"cooldown": 0, "destination": {"y": 14, "x": 26}}, "40,24": {"cooldown": 0, "destination": {"y": 19, "x": 34}}}, "fields": {}}

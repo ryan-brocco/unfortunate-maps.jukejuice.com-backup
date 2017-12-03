@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "gimmicks", "author": "popee"}, "portals": {}, "fields": {"31,15": {"defaultState": "blue"}, "33,7": {"defaultState": "blue"}, "33,15": {"defaultState": "red"}, "31,7": {"defaultState": "red"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

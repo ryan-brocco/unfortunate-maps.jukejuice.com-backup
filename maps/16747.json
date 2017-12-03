@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Marko", "author": "NotSomeBall2"}, "portals": {}, "fields": {}, "switches": {"17,10": {"toggle": [{"pos": {"y": 9, "x": 14}}, {"pos": {"y": 11, "x": 14}}], "timer": 0}, "39,20": {"toggle": [{"pos": {"y": 21, "x": 42}}, {"pos": {"y": 19, "x": 42}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

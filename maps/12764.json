@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravity", "name": ";", "author": ""}, "portals": {}, "fields": {"3,4": {"defaultState": "red"}, "35,4": {"defaultState": "blue"}}, "switches": {}, "marsballs": [{"y": 15, "x": 1}, {"y": 15, "x": 37}], "spawnPoints": {"blue": [{"y": 1, "x": 37, "radius": 5, "weight": 1}], "red": [{"y": 1, "x": 1, "radius": 5, "weight": 1}]}}

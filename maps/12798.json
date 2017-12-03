@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Salvation", "author": "99"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 9, "x": 59, "radius": 1, "weight": 1}, {"y": 17, "x": 59, "radius": 1, "weight": 1}], "red": [{"y": 9, "x": 1, "radius": 1, "weight": 1}, {"y": 17, "x": 1, "radius": 1, "weight": 1}]}}

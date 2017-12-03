@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Wobniar", "author": "Ball-E"}, "portals": {}, "fields": {"52,17": {"defaultState": "off"}, "6,11": {"defaultState": "off"}}, "switches": {"8,11": {"toggle": [{"pos": {"y": 11, "x": 6}}], "timer": 0}, "50,17": {"toggle": [{"pos": {"y": 17, "x": 52}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Pictionary", "author": "(set bomb force and range to 0.3), bomb respawn 2 mins"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 15, "x": 30, "radius": 5, "weight": 1}], "red": [{"y": 15, "x": 29, "radius": 5, "weight": 1}]}}

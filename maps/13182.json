@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "concepts", "author": "Canvas"}, "portals": {}, "fields": {}, "switches": {"31,12": {"toggle": [{"pos": {"y": 14, "x": 33}}, {"pos": {"y": 10, "x": 29}}], "timer": 0}, "19,12": {"toggle": [{"pos": {"y": 14, "x": 17}}, {"pos": {"y": 10, "x": 21}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

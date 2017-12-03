@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Molotov", "author": "Exate & Canvas"}, "portals": {}, "fields": {"25,0": {"defaultState": "on"}}, "switches": {"17,16": {"toggle": [{"pos": {"y": 18, "x": 18}}], "timer": 0}, "33,16": {"toggle": [{"pos": {"y": 18, "x": 32}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

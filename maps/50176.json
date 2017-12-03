@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "NFM", "author": "rickastley"}, "portals": {"7,8": {}, "16,1": {}, "37,8": {}, "28,1": {}}, "fields": {"16,2": {"defaultState": "blue"}, "28,2": {"defaultState": "red"}, "29,1": {"defaultState": "red"}, "15,1": {"defaultState": "blue"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

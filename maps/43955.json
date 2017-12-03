@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Okama Gamesphere", "author": "JuicyJuke"}, "portals": {}, "fields": {}, "switches": {"39,23": {"toggle": [{"pos": {"y": 25, "x": 37}}], "timer": 0}, "19,17": {"toggle": [{"pos": {"y": 15, "x": 21}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

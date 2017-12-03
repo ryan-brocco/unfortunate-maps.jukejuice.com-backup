@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Langos Portal Gate", "author": "LaBeefyman96 and ThePlaymaker"}, "portals": {"21,11": {}, "21,22": {}, "21,16": {"cooldown": 4000, "destination": {"y": 22, "x": 21}}, "21,23": {"cooldown": 0, "destination": {"y": 11, "x": 21}}}, "fields": {}, "switches": {}, "marsballs": [{"y": 21, "x": 21}], "spawnPoints": {"blue": [], "red": []}}

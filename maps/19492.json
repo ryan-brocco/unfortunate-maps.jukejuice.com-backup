@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Vigilant 1", "author": "Liquid / Ball-E"}, "portals": {"4,16": {"cooldown": 5000}, "42,16": {"cooldown": 5000, "destination": {"y": 14, "x": 52}}, "52,14": {}, "14,14": {"cooldown": 0, "destination": {"y": 16, "x": 4}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

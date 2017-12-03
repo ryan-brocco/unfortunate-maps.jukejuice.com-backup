@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Acute", "author": "Scum Ball 1"}, "portals": {}, "fields": {}, "switches": {"7,42": {"toggle": [{"pos": {"y": 41, "x": 6}}], "timer": 0}, "43,18": {"toggle": [{"pos": {"y": 19, "x": 44}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"name": "Happy Puppy", "author": "Bumballbee"}, "switches": {"27,22": {"toggle": [{"pos": {"y": 17, "x": 27}}, {"pos": {"y": 18, "x": 27}}, {"pos": {"y": 19, "x": 27}}, {"pos": {"y": 20, "x": 27}}]}}, "portals": {}, "fields": {"27,19": {"defaultState": "on"}, "27,18": {"defaultState": "on"}, "27,20": {"defaultState": "on"}, "27,17": {"defaultState": "on"}}}

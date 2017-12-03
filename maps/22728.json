@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Planck", "author": "Ball-E"}, "portals": {"30,8": {"cooldown": 0, "destination": {"y": 16, "x": 26}}, "26,16": {"cooldown": 0, "destination": {"y": 8, "x": 30}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

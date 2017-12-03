@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Basketball", "author": "Nelbert"}, "portals": {}, "fields": {"1,6": {"defaultState": "off"}, "18,6": {"defaultState": "off"}}, "switches": {"18,9": {"toggle": [], "timer": 0}, "1,9": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

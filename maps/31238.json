@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Fetty Map", "author": "Beast  Mode"}, "portals": {}, "fields": {}, "switches": {"5,16": {"toggle": [{"pos": {"y": 13, "x": 5}}], "timer": 0}, "33,16": {"toggle": [{"pos": {"y": 19, "x": 33}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

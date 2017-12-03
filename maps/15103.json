@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Battle Remix", "author": "Canvas"}, "portals": {}, "fields": {"30,8": {"defaultState": "off"}, "24,8": {"defaultState": "off"}}, "switches": {"25,8": {"toggle": [{"pos": {"y": 8, "x": 24}}], "timer": 0}, "29,8": {"toggle": [{"pos": {"y": 8, "x": 30}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

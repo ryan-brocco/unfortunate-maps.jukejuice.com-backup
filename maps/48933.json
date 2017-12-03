@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Biohazard", "author": "Antigod"}, "portals": {"20,27": {"cooldown": 10000, "destination": {"y": 22, "x": 38}}, "38,22": {"cooldown": 10000, "destination": {"y": 27, "x": 20}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"name": "Startown Gas Staion", "author": "Cheerwine"}, "switches": {"10,16": {"toggle": []}, "16,12": {"toggle": []}}, "portals": {}, "fields": {"12,15": {"defaultState": "off"}, "12,14": {"defaultState": "off"}, "13,13": {"defaultState": "off"}, "13,15": {"defaultState": "off"}, "14,13": {"defaultState": "off"}, "14,14": {"defaultState": "off"}}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Flail", "author": "Aniball"}, "portals": {"19,10": {"cooldown": 10000, "destination": {"y": 18, "x": 27}}, "27,18": {"cooldown": 10000, "destination": {"y": 10, "x": 19}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

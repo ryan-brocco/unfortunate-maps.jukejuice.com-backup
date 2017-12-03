@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Arcadia", "author": "TEG"}, "portals": {}, "fields": {}, "switches": {"23,10": {"toggle": [{"pos": {"y": 9, "x": 21}}], "timer": 0}, "27,16": {"toggle": [{"pos": {"y": 17, "x": 29}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"name": "Slum", "author": "Sizzzled"}, "switches": {}, "portals": {"10,20": {"destination": {"y": 37, "x": 2}}, "13,17": {"destination": {"y": 18, "x": 10}}, "13,21": {"destination": {"y": 20, "x": 10}}, "10,18": {"destination": {"y": 1, "x": 2}}}, "fields": {"6,20": {"defaultState": "red"}, "6,18": {"defaultState": "blue"}}}

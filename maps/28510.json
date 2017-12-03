@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Encounter", "author": "Hawka"}, "portals": {}, "fields": {}, "switches": {"22,6": {"toggle": [{"pos": {"y": 8, "x": 22}}], "timer": 0}, "22,20": {"toggle": [{"pos": {"y": 18, "x": 22}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

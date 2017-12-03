@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Kallipygos", "author": "Dianna Agron & Aniball"}, "portals": {}, "fields": {}, "switches": {"7,9": {"toggle": [{"pos": {"y": 6, "x": 8}}, {"pos": {"y": 7, "x": 9}}], "timer": 0}, "51,15": {"toggle": [{"pos": {"y": 18, "x": 50}}, {"pos": {"y": 17, "x": 49}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

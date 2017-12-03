@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Zulu", "author": "Canvas"}, "portals": {}, "fields": {}, "switches": {"38,18": {"toggle": [{"pos": {"y": 20, "x": 40}}], "timer": 0}, "20,8": {"toggle": [{"pos": {"y": 6, "x": 18}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

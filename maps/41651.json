@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravity", "name": "Dook", "author": "DragonBeast"}, "portals": {"22,17": {}, "21,11": {"cooldown": 0, "destination": {"y": 17, "x": 22}}, "23,11": {"cooldown": 0, "destination": {"y": 17, "x": 22}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

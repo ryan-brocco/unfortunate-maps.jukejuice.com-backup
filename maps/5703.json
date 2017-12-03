@@ -1,0 +1,1 @@
+{"info": {"name": "Ruby", "author": "Ball-E"}, "switches": {}, "portals": {"20,7": {"destination": {"y": 14, "x": 26}}, "49,20": {"destination": {"y": 21, "x": 32}}, "32,21": {"destination": {"y": 14, "x": 26}}, "3,8": {"destination": {"y": 7, "x": 20}}}, "fields": {"30,3": {"defaultState": "red"}, "22,25": {"defaultState": "blue"}}}

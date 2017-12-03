@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Vault 11", "author": "Ball-E & Sizzzled"}, "portals": {}, "fields": {}, "switches": {"23,6": {"toggle": [{"pos": {"y": 6, "x": 25}}, {"pos": {"y": 6, "x": 26}}], "timer": 0}, "55,6": {"toggle": [{"pos": {"y": 6, "x": 53}}, {"pos": {"y": 6, "x": 52}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

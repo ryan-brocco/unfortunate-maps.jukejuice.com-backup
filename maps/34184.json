@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Gossamer", "author": "Kirby(>'-')>"}, "portals": {}, "fields": {}, "switches": {"10,20": {"toggle": [{"pos": {"y": 19, "x": 8}}], "timer": 0}, "26,6": {"toggle": [{"pos": {"y": 7, "x": 28}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

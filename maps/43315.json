@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Holly Jolly Ball-E", "author": "Dove"}, "portals": {}, "fields": {"24,20": {"defaultState": "off"}, "25,21": {"defaultState": "off"}}, "switches": {"30,18": {"toggle": [{"pos": {"y": 20, "x": 24}}, {"pos": {"y": 21, "x": 25}}, {"pos": {"y": 19, "x": 26}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

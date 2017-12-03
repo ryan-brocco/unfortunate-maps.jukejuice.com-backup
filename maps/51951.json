@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Motoball", "author": "Antigod"}, "portals": {"29,21": {"cooldown": 15000, "destination": {"y": 18, "x": 10}}, "10,18": {"cooldown": 15000, "destination": {"y": 21, "x": 29}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

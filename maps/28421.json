@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Ruin", "author": "Ho-Hum"}, "portals": {}, "fields": {}, "switches": {"38,24": {"toggle": [{"pos": {"y": 26, "x": 42}}], "timer": 0}, "22,24": {"toggle": [{"pos": {"y": 26, "x": 18}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

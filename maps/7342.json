@@ -1,0 +1,1 @@
+{"info": {"name": "Vertika", "author": "Canvas"}, "switches": {"11,12": {"toggle": []}, "7,16": {"toggle": [{"pos": {"y": 18, "x": 7}}]}, "11,24": {"toggle": []}, "7,20": {"toggle": [{"pos": {"y": 18, "x": 7}}]}}, "portals": {}, "fields": {"9,18": {"defaultState": "on"}, "9,21": {"defaultState": "blue"}, "9,15": {"defaultState": "red"}}}

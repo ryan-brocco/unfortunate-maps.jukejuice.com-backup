@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Sorcery", "author": "PIZZAspartan"}, "portals": {}, "fields": {"7,17": {"defaultState": "off"}, "31,17": {"defaultState": "off"}}, "switches": {"7,13": {"toggle": [{"pos": {"y": 17, "x": 7}}], "timer": 0}, "31,13": {"toggle": [{"pos": {"y": 17, "x": 31}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

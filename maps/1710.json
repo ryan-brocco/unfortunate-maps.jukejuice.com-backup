@@ -1,0 +1,1 @@
+{"info": {"name": "Count Mapula", "author": "Dianiball"}, "switches": {"19,10": {"toggle": [{"pos": {"y": 11, "x": 23}}, {"pos": {"y": 13, "x": 23}}]}, "27,10": {"toggle": [{"pos": {"y": 11, "x": 23}}, {"pos": {"y": 13, "x": 23}}]}}, "portals": {}, "fields": {"23,11": {"defaultState": "off"}, "23,9": {"defaultState": "off"}, "23,13": {"defaultState": "off"}}}

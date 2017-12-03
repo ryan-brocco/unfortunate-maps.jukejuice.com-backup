@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravityCTF", "name": "Untitled", "author": "Anonymous"}, "portals": {}, "fields": {}, "switches": {"44,44": {"toggle": [], "timer": 0}, "47,47": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [{"y": 37, "x": 1, "radius": 0, "weight": 1}], "red": [{"y": 38, "x": 1, "radius": 0, "weight": 1}]}}

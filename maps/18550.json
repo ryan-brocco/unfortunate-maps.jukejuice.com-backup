@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Propeller", "author": "Trent"}, "portals": {}, "fields": {}, "switches": {"24,12": {"toggle": [{"pos": {"y": 14, "x": 21}}], "timer": 0}, "10,24": {"toggle": [{"pos": {"y": 22, "x": 13}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

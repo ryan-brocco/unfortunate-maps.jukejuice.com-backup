@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Mathematical Depth", "author": "ThePlaymaker & bicycle"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 19, "x": 42, "radius": 3, "weight": 2}, {"y": 19, "x": 44, "radius": 3, "weight": 1}], "red": [{"y": 5, "x": 6, "radius": 3, "weight": 1}, {"y": 5, "x": 8, "radius": 3, "weight": 2}]}}

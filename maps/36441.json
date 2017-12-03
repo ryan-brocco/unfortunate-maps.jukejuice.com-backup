@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Feed Me", "author": "Linux Ball"}, "portals": {}, "fields": {"14,12": {"defaultState": "on"}, "29,17": {"defaultState": "on"}, "15,20": {"defaultState": "off"}, "28,9": {"defaultState": "off"}}, "switches": {"27,9": {"toggle": [], "timer": 0}, "16,20": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

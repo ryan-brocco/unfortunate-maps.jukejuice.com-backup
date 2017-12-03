@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Bear", "author": "Danny"}, "portals": {"19,2": {"cooldown": 5, "destination": {"y": 13, "x": 25}}, "25,13": {}, "9,13": {}, "15,2": {"cooldown": 5, "destination": {"y": 13, "x": 9}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Push v Push", "author": "Danny"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [{"y": 8, "x": 14}], "spawnPoints": {"blue": [{"y": 6, "x": 23, "radius": 5, "weight": 1}, {"y": 10, "x": 23, "radius": 5, "weight": 1}], "red": [{"y": 6, "x": 5, "radius": 5, "weight": 1}, {"y": 10, "x": 5, "radius": 5, "weight": 1}]}}

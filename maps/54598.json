@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Isomer", "author": "AlanTM"}, "portals": {}, "fields": {}, "switches": {"18,38": {"toggle": [{"pos": {"y": 40, "x": 20}}], "timer": 0}, "36,12": {"toggle": [{"pos": {"y": 10, "x": 34}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

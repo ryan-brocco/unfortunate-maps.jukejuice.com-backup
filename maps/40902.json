@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Synergy", "author": "Ping Tut"}, "portals": {}, "fields": {"26,10": {"defaultState": "red"}, "22,12": {"defaultState": "blue"}}, "switches": {"14,13": {"toggle": [{"pos": {"y": 12, "x": 17}}], "timer": 0}, "34,9": {"toggle": [{"pos": {"y": 10, "x": 31}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

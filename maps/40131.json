@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Blizzard", "author": "Ping Tut"}, "portals": {}, "fields": {}, "switches": {"11,20": {"toggle": [{"pos": {"y": 20, "x": 14}}], "timer": 0}, "31,6": {"toggle": [{"pos": {"y": 6, "x": 28}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

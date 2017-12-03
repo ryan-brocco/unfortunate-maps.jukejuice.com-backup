@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Wicked", "author": "Butter Churn"}, "portals": {}, "fields": {}, "switches": {"37,23": {"toggle": [{"pos": {"y": 25, "x": 37}}], "timer": 0}, "23,23": {"toggle": [{"pos": {"y": 25, "x": 23}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

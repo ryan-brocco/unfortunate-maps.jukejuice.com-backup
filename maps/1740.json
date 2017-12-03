@@ -1,0 +1,1 @@
+{"info": {"name": "2112", "author": "leddy"}, "switches": {"48,20": {"toggle": [{"pos": {"y": 20, "x": 51}}, {"pos": {"y": 19, "x": 52}}, {"pos": {"y": 21, "x": 52}}, {"pos": {"y": 20, "x": 53}}]}}, "portals": {}, "fields": {"53,20": {"defaultState": "off"}, "52,19": {"defaultState": "off"}, "51,20": {"defaultState": "off"}, "52,21": {"defaultState": "off"}}}

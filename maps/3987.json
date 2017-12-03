@@ -1,0 +1,1 @@
+{"info": {"name": "Rapture Thing", "author": "DaEvil1"}, "switches": {"3,12": {"toggle": [{"pos": {"y": 12, "x": 1}}]}}, "portals": {"10,23": {"cooldown": 0, "destination": {"y": 12, "x": 2}}, "2,12": {"destination": {}}}, "fields": {"10,22": {"defaultState": "off"}, "9,23": {"defaultState": "off"}}}

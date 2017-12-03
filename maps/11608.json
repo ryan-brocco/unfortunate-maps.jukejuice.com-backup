@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Triangle", "author": "Biscottibro"}, "portals": {}, "fields": {}, "switches": {"22,17": {"toggle": [{"pos": {"y": 17, "x": 24}}], "timer": 0}, "20,23": {"toggle": [{"pos": {"y": 23, "x": 18}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

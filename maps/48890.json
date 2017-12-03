@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "temp", "author": "B"}, "portals": {}, "fields": {}, "switches": {"44,8": {"toggle": [{"pos": {"y": 5, "x": 41}}, {"pos": {"y": 4, "x": 40}}], "timer": 0}, "16,18": {"toggle": [{"pos": {"y": 21, "x": 19}}, {"pos": {"y": 22, "x": 20}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

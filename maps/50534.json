@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravityCTF", "name": "Wierdness", "author": "I am awesome"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 3, "x": 3, "radius": 5, "weight": 1}, {"y": 16, "x": 16, "radius": 5, "weight": 1}], "red": [{"y": 16, "x": 3, "radius": 5, "weight": 1}, {"y": 3, "x": 16, "radius": 5, "weight": 1}]}}

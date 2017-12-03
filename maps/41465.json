@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravity", "name": "boobsandbutts", "author": "Anonymous"}, "portals": {}, "fields": {"7,8": {"defaultState": "on"}, "5,8": {"defaultState": "on"}, "5,7": {"defaultState": "on"}, "7,7": {"defaultState": "on"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": [{"y": 10, "x": 1, "radius": 5, "weight": 1}]}}

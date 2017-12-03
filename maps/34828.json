@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "DualShock", "author": "ThePlaymaker"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 16, "x": 42, "radius": 3, "weight": 1}, {"y": 19, "x": 42, "radius": 3, "weight": 1}], "red": [{"y": 16, "x": 8, "radius": 3, "weight": 1}, {"y": 19, "x": 8, "radius": 3, "weight": 1}]}}

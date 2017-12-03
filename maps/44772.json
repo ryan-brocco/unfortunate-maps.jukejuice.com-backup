@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Turbine", "author": "TheEpicGhost"}, "portals": {}, "fields": {}, "switches": {"16,15": {"toggle": [{"pos": {"y": 15, "x": 18}}], "timer": 0}, "38,9": {"toggle": [{"pos": {"y": 9, "x": 36}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

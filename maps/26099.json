@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Phalanx", "author": "Oscar"}, "portals": {}, "fields": {}, "switches": {"21,7": {"toggle": [{"pos": {"y": 8, "x": 23}}], "timer": 0}, "29,7": {"toggle": [{"pos": {"y": 8, "x": 27}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

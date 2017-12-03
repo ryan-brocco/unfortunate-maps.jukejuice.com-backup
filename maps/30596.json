@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Unique Portals", "author": "Ping Tut"}, "portals": {"3,4": {"cooldown": 0, "destination": {"y": 24, "x": 17}}, "17,4": {}, "31,24": {"cooldown": 0, "destination": {"y": 4, "x": 17}}, "17,24": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Carente", "author": "meherethere"}, "portals": {}, "fields": {}, "switches": {"3,7": {"toggle": [{"pos": {"y": 5, "x": 3}}], "timer": 0}, "45,7": {"toggle": [{"pos": {"y": 5, "x": 45}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

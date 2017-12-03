@@ -1,0 +1,1 @@
+{"info": {"name": "ark", "author": "poopv"}, "switches": {"24,6": {"toggle": [{"pos": {"y": 9, "x": 25}}]}, "25,6": {"toggle": [{"pos": {"y": 9, "x": 24}}]}}, "portals": {"1,7": {"destination": {"y": 19, "x": 21}}, "21,19": {"destination": {"y": 7, "x": 1}}, "48,7": {"destination": {"y": 19, "x": 28}}, "28,19": {"destination": {"y": 7, "x": 48}}}, "fields": {}}

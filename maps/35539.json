@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravityCTF", "name": "The City", "author": "Anonymous"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 98, "x": 14, "radius": 1, "weight": 1}], "red": [{"y": 1, "x": 25, "radius": 5, "weight": 1}, {"y": 25, "x": 74, "radius": 15, "weight": 10}]}}

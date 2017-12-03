@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "New Clloab Del", "author": "BP8"}, "portals": {}, "fields": {"12,25": {"defaultState": "off"}, "38,7": {"defaultState": "off"}}, "switches": {"43,7": {"toggle": [{"pos": {"y": 7, "x": 38}}], "timer": 0}, "7,25": {"toggle": [{"pos": {"y": 25, "x": 12}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Ugly", "author": "Dianna Agron Jr."}, "portals": {}, "fields": {"28,14": {"defaultState": "blue"}, "30,14": {"defaultState": "blue"}, "2,3": {"defaultState": "off"}, "29,14": {"defaultState": "blue"}}, "switches": {"11,6": {"toggle": [{"pos": {"y": 3, "x": 2}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

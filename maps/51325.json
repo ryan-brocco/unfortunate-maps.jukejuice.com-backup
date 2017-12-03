@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Electric Light Orchestra", "author": "NotSomeBall2"}, "portals": {"30,19": {"cooldown": 0, "destination": {"y": 9, "x": 24}}, "24,9": {"cooldown": 0, "destination": {"y": 19, "x": 30}}}, "fields": {"32,22": {"defaultState": "off"}, "22,6": {"defaultState": "off"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Admiral", "author": "JuicyJuke"}, "portals": {"21,13": {"cooldown": 10000, "destination": {"y": 25, "x": 17}}, "17,25": {"cooldown": 10000, "destination": {"y": 13, "x": 21}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

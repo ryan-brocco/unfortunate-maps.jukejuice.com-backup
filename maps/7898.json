@@ -1,0 +1,1 @@
+{"info": {"name": "Oblique", "author": "bad"}, "switches": {"15,17": {"toggle": [{"pos": {"y": 18, "x": 19}}]}, "39,11": {"toggle": [{"pos": {"y": 10, "x": 35}}]}}, "portals": {"22,14": {"cooldown": 0, "destination": {"y": 21, "x": 16}}, "32,14": {"cooldown": 0, "destination": {"y": 7, "x": 38}}}, "fields": {}}

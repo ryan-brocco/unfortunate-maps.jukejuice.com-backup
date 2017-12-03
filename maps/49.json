@@ -1,0 +1,1 @@
+{"info": {"name": "Mast", "author": "Sub Ohm"}, "switches": {}, "portals": {"24,18": {"cooldown": 1, "destination": {"y": 11, "x": 21}}, "22,18": {"destination": {"y": 11, "x": 25}, "cooldown": 1}}, "fields": {"24,19": {"defaultState": "blue"}, "22,19": {"defaultState": "red"}}}

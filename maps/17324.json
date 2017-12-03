@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Kill Me", "author": "Amoeball"}, "portals": {"4,3": {}, "26,27": {}, "29,30": {"cooldown": 0, "destination": {"y": 3, "x": 4}}, "1,0": {"cooldown": 0, "destination": {"y": 27, "x": 26}}}, "fields": {"29,29": {"defaultState": "red"}, "1,1": {"defaultState": "blue"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

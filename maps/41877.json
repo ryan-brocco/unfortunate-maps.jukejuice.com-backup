@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Ruasydroh", "author": "Hydrosaur"}, "portals": {}, "fields": {}, "switches": {"8,22": {"toggle": [{"pos": {"y": 23, "x": 6}}, {"pos": {"y": 24, "x": 7}}], "timer": 0}, "24,26": {"toggle": [{"pos": {"y": 25, "x": 26}}, {"pos": {"y": 24, "x": 25}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravityCTF", "name": "lol", "author": "Danny"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [{"y": 18, "x": 29}, {"y": 20, "x": 29}], "spawnPoints": {"blue": [{"y": 23, "x": 37, "radius": 5, "weight": 1}], "red": [{"y": 23, "x": 21, "radius": 5, "weight": 1}]}}

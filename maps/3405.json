@@ -1,0 +1,1 @@
+{"info": {"name": "Smalls", "author": "Yu31"}, "switches": {"3,5": {"toggle": [{"pos": {"y": 5, "x": 1}}, {"pos": {"y": 5, "x": 2}}]}, "6,4": {"toggle": [{"pos": {"y": 4, "x": 7}}, {"pos": {"y": 4, "x": 8}}]}}, "portals": {}, "fields": {"2,5": {"defaultState": "off"}, "1,5": {"defaultState": "off"}, "7,4": {"defaultState": "off"}, "8,4": {"defaultState": "off"}}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Mustard", "author": "Ralph Wiggum & TheEpicGhost"}, "portals": {}, "fields": {}, "switches": {"30,15": {"toggle": [{"pos": {"y": 12, "x": 31}}], "timer": 0}, "6,13": {"toggle": [{"pos": {"y": 16, "x": 5}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

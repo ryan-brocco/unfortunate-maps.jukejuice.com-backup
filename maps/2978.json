@@ -1,0 +1,1 @@
+{"info": {"name": "Wormhole", "author": "kazoo"}, "switches": {}, "portals": {"21,10": {"cooldown": 3000, "destination": {"y": 16, "x": 29}}, "29,16": {"cooldown": 3000, "destination": {"y": 10, "x": 21}}}, "fields": {}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Launcher", "author": "Rapture + teg"}, "portals": {}, "fields": {}, "switches": {"38,18": {"toggle": [{"pos": {"y": 18, "x": 40}}, {"pos": {"y": 20, "x": 38}}], "timer": 0}, "10,8": {"toggle": [{"pos": {"y": 8, "x": 8}}, {"pos": {"y": 6, "x": 10}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

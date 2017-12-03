@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "BombSpikeDomeNF", "author": "Squirrely"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 26, "x": 25, "radius": 1, "weight": 1}, {"y": 25, "x": 26, "radius": 1, "weight": 1}], "red": [{"y": 25, "x": 32, "radius": 1, "weight": 1}, {"y": 26, "x": 33, "radius": 1, "weight": 1}]}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Burgundy", "author": "Canvas"}, "portals": {"39,11": {}, "13,17": {}, "39,21": {"cooldown": 0, "destination": {"y": 11, "x": 39}}, "13,7": {"cooldown": 0, "destination": {"y": 17, "x": 13}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

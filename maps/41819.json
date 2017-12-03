@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Zygote", "author": "samouree"}, "portals": {}, "fields": {}, "switches": {"42,22": {"toggle": [{"pos": {"y": 20, "x": 44}}], "timer": 0}, "4,10": {"toggle": [{"pos": {"y": 12, "x": 2}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

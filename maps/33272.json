@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Ricochet (Playing With Gravity Wells)", "author": "YouKnowWho"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [{"y": 34, "x": 13}, {"y": 22, "x": 43}], "spawnPoints": {"blue": [{"y": 5, "x": 25, "radius": 5, "weight": 1}], "red": [{"y": 51, "x": 31, "radius": 5, "weight": 1}]}}

@@ -1,0 +1,1 @@
+{"info": {"name": "Flame 2", "author": "Canvas"}, "switches": {"17,5": {"toggle": [{"pos": {"y": 10, "x": 16}}, {"pos": {"y": 9, "x": 17}}]}, "27,21": {"toggle": [{"pos": {"y": 16, "x": 28}}, {"pos": {"y": 17, "x": 27}}]}}, "portals": {}, "fields": {"28,16": {"defaultState": "on"}, "16,10": {"defaultState": "on"}, "27,17": {"defaultState": "on"}, "17,9": {"defaultState": "on"}}}

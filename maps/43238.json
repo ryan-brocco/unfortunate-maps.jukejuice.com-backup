@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Bukowski", "author": "Dove"}, "portals": {"50,30": {"cooldown": 60000, "destination": {"y": 24, "x": 4}}, "4,24": {"cooldown": 60000, "destination": {"y": 30, "x": 50}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

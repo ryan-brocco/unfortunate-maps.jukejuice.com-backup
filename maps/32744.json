@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Step", "author": "bicycle"}, "portals": {"29,13": {"cooldown": 0, "destination": {"y": 11, "x": 21}}, "21,11": {"cooldown": 0, "destination": {"y": 13, "x": 29}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 12, "x": 38, "radius": 5, "weight": 1}], "red": [{"y": 12, "x": 12, "radius": 5, "weight": 1}]}}

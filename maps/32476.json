@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Pariah", "author": "Moosen"}, "portals": {}, "fields": {"41,21": {"defaultState": "on"}, "3,3": {"defaultState": "on"}}, "switches": {"40,20": {"toggle": [{"pos": {"y": 21, "x": 41}}], "timer": 0}, "4,4": {"toggle": [{"pos": {"y": 3, "x": 3}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

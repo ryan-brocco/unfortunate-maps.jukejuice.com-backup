@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "testmap", "author": "Anonymous"}, "portals": {"18,22": {"cooldown": 10000, "destination": {"y": 39, "x": 16}}, "24,20": {"cooldown": 10000, "destination": {"y": 3, "x": 26}}, "16,39": {}, "26,3": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

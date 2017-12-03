@@ -1,0 +1,1 @@
+{"info": {"name": "Hide and Seek (test)", "author": "Snack"}, "switches": {}, "portals": {"4,16": {"destination": {"y": 15, "x": 21}}, "38,16": {"destination": {"y": 15, "x": 21}}}, "fields": {"41,26": {"defaultState": "red"}, "2,27": {"defaultState": "blue"}, "40,27": {"defaultState": "red"}, "1,26": {"defaultState": "blue"}}}

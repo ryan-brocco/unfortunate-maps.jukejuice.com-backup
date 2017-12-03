@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Tiny Constrriction", "author": "Hydrosaur"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 2, "x": 20, "radius": 1, "weight": 1}, {"y": 4, "x": 22, "radius": 1, "weight": 1}], "red": [{"y": 6, "x": 2, "radius": 1, "weight": 1}, {"y": 8, "x": 4, "radius": 1, "weight": 1}]}}

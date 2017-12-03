@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Carnival", "author": "Sizzzled"}, "portals": {"24,18": {"cooldown": 5000, "destination": {"y": 4, "x": 28}}, "28,4": {"cooldown": 5000, "destination": {"y": 18, "x": 24}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

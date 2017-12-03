@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Tadpole", "author": "DragonBeast"}, "portals": {"39,16": {"cooldown": 3000, "destination": {"y": 24, "x": 32}}, "16,8": {}, "9,16": {"cooldown": 3000, "destination": {"y": 8, "x": 16}}, "32,24": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

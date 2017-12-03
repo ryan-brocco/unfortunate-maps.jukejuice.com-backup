@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Deathclaw", "author": "PiT"}, "portals": {"18,21": {}, "41,1": {}, "36,1": {}, "13,21": {}}, "fields": {}, "switches": {"19,21": {"toggle": [{"pos": {"y": 20, "x": 14}}], "timer": 0}, "35,1": {"toggle": [{"pos": {"y": 2, "x": 40}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

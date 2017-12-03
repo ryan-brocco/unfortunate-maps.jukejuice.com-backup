@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Kiwi", "author": "Ping Tut"}, "portals": {}, "fields": {"20,14": {"defaultState": "off"}, "36,14": {"defaultState": "off"}}, "switches": {"37,14": {"toggle": [{"pos": {"y": 14, "x": 36}}], "timer": 0}, "19,14": {"toggle": [{"pos": {"y": 14, "x": 20}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

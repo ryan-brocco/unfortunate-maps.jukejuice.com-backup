@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Curmudgeon", "author": "Fronj + A GENIUS"}, "portals": {}, "fields": {"24,23": {"defaultState": "off"}}, "switches": {"19,20": {"toggle": [{"pos": {"y": 23, "x": 24}}], "timer": 0}, "29,20": {"toggle": [{"pos": {"y": 23, "x": 24}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

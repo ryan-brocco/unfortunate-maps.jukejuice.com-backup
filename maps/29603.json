@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "It's a small World after all", "author": "Dithney"}, "portals": {}, "fields": {"70,42": {"defaultState": "off"}, "70,43": {"defaultState": "off"}, "70,40": {"defaultState": "off"}, "70,41": {"defaultState": "off"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": [{"y": 43, "x": 69, "radius": 5, "weight": 1}]}}

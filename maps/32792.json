@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Boeing", "author": "Canvas"}, "portals": {}, "fields": {}, "switches": {"44,13": {"toggle": [{"pos": {"y": 17, "x": 48}}], "timer": 0}, "8,17": {"toggle": [{"pos": {"y": 13, "x": 4}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

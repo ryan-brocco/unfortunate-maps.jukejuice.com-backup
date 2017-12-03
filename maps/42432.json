@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Transgendio", "author": "Destar"}, "portals": {"5,1": {}, "29,19": {}, "1,5": {"cooldown": 5000, "destination": {"y": 1, "x": 5}}, "33,15": {"cooldown": 5000, "destination": {"y": 19, "x": 29}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"name": "Pipes", "author": "bowtie"}, "switches": {"20,16": {"toggle": [{"pos": {"y": 17, "x": 25}}, {"pos": {"y": 17, "x": 26}}]}, "30,16": {"toggle": [{"pos": {"y": 17, "x": 24}}, {"pos": {"y": 17, "x": 25}}]}}, "portals": {"21,8": {"destination": {"y": 8, "x": 29}, "cooldown": 0}, "29,8": {"destination": {"y": 8, "x": 21}, "cooldown": 0}}, "fields": {}}

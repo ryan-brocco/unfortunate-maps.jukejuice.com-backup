@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Fogo", "author": "rh156"}, "portals": {"42,14": {"cooldown": 3000, "destination": {"y": 22, "x": 49}}, "49,22": {}, "7,6": {}, "14,14": {"cooldown": 3000, "destination": {"y": 6, "x": 7}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

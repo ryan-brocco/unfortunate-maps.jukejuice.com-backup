@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Fetty Map", "author": "Beast  Mode"}, "portals": {"7,13": {"cooldown": 3000, "destination": {"y": 14, "x": 8}}, "30,18": {}, "31,19": {"cooldown": 3000, "destination": {"y": 18, "x": 30}}, "8,14": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

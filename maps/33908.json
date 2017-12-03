@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Moat - rh edit", "author": "Loaha & rh156"}, "portals": {"25,17": {"cooldown": 3000, "destination": {"y": 7, "x": 31}}, "31,7": {"cooldown": 3000, "destination": {"y": 17, "x": 25}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

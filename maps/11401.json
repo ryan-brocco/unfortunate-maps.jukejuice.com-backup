@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Precipice", "author": "q42"}, "portals": {}, "fields": {}, "switches": {"19,10": {"toggle": [{"pos": {"y": 9, "x": 19}}], "timer": 0}, "25,23": {"toggle": [{"pos": {"y": 24, "x": 25}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

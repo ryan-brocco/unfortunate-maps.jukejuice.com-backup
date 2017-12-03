@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Simulation (TPM likes to ruin things too)", "author": "NIGEL"}, "portals": {"17,23": {}, "25,13": {}, "21,28": {"cooldown": 0, "destination": {"y": 23, "x": 17}}, "21,8": {"cooldown": 0, "destination": {"y": 13, "x": 25}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

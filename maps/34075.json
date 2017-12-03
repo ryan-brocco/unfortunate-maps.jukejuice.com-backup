@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Three Step Pass", "author": "Ping Tut"}, "portals": {}, "fields": {}, "switches": {"2,11": {"toggle": [{"pos": {"y": 10, "x": 1}}], "timer": 0}, "21,10": {"toggle": [{"pos": {"y": 3, "x": 21}}], "timer": 0}, "40,11": {"toggle": [{"pos": {"y": 10, "x": 41}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

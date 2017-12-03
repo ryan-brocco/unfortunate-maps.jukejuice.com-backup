@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Wringer", "author": "Sizzzled & NIGEL"}, "portals": {"24,12": {"cooldown": 5000, "destination": {"y": 24, "x": 24}}, "24,24": {"cooldown": 5000, "destination": {"y": 12, "x": 24}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

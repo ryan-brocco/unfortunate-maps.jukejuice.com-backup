@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Quetzalcoatl", "author": "Snack"}, "portals": {}, "fields": {"24,19": {"defaultState": "off"}, "26,17": {"defaultState": "off"}}, "switches": {"23,20": {"toggle": [{"pos": {"y": 17, "x": 26}}], "timer": 0}, "27,16": {"toggle": [{"pos": {"y": 19, "x": 24}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Genie", "author": "Snekster"}, "portals": {"41,15": {}, "47,15": {"cooldown": 10000, "destination": {"y": 15, "x": 41}}, "3,15": {"cooldown": 10000, "destination": {"y": 15, "x": 9}}, "9,15": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

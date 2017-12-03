@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravityCTF", "name": "Hmm", "author": "Danny"}, "portals": {}, "fields": {"3,9": {"defaultState": "on"}, "3,10": {"defaultState": "on"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": [{"y": 1, "x": 1, "radius": 5, "weight": 1}, {"y": 2, "x": 1, "radius": 5, "weight": 1}, {"y": 3, "x": 1, "radius": 5, "weight": 1}]}}

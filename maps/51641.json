@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Comp Map", "author": "BallAnka"}, "portals": {"4,34": {"cooldown": 10000000}, "55,25": {"cooldown": 10000000}, "50,20": {"cooldown": 15, "destination": {"y": 25, "x": 55}}, "9,39": {"cooldown": 15, "destination": {"y": 34, "x": 4}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

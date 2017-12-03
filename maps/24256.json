@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Everglade", "author": "Ball-E"}, "portals": {}, "fields": {"10,16": {"defaultState": "blue"}, "45,15": {"defaultState": "red"}, "44,16": {"defaultState": "red"}, "9,17": {"defaultState": "blue"}}, "switches": {"13,13": {"toggle": [], "timer": 0}, "41,19": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

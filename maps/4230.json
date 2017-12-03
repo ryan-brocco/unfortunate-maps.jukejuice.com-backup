@@ -1,0 +1,1 @@
+{"info": {"name": "Cattywampus", "author": "Ball-E"}, "switches": {"9,11": {"toggle": [{"pos": {"y": 13, "x": 7}}]}, "57,11": {"toggle": [{"pos": {"y": 13, "x": 59}}]}}, "portals": {"33,10": {"destination": {"y": 5, "x": 33}}, "39,6": {"destination": {"y": 10, "x": 33}}, "27,6": {"destination": {"y": 10, "x": 33}}}, "fields": {}}

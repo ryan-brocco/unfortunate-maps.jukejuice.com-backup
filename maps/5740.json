@@ -1,0 +1,1 @@
+{"info": {"name": "Opportunity", "author": "Carabdis"}, "switches": {"38,9": {"toggle": [{"pos": {"y": 15, "x": 37}}]}, "6,35": {"toggle": [{"pos": {"y": 29, "x": 7}}]}}, "portals": {"1,22": {"destination": {"y": 22, "x": 1}}, "43,22": {"destination": {"y": 22, "x": 43}}}, "fields": {"2,22": {"defaultState": "blue"}, "42,22": {"defaultState": "red"}}}

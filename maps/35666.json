@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Dredge", "author": "Sizzzled"}, "portals": {"38,12": {"cooldown": 5000, "destination": {"y": 19, "x": 53}}, "20,18": {"cooldown": 5000, "destination": {"y": 11, "x": 5}}, "5,11": {}, "53,19": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

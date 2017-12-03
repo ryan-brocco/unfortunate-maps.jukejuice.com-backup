@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "lol", "author": "Canvas"}, "portals": {"0,12": {"cooldown": 0, "destination": {"y": 15, "x": 37}}, "0,18": {"cooldown": 0, "destination": {"y": 15, "x": 37}}, "37,15": {"cooldown": 0, "destination": {"y": 12, "x": 0}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Dwarf Wars", "author": "Antigod"}, "portals": {}, "fields": {}, "switches": {"32,13": {"toggle": [{"pos": {"y": 12, "x": 34}}], "timer": 0}, "12,31": {"toggle": [{"pos": {"y": 32, "x": 10}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

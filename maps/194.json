@@ -1,0 +1,1 @@
+{"info": {"name": "Quadra Fury ", "author": "Jungle Spice"}, "portals": {}, "35,28": {"cooldown": 0, "destination": {"y": 23, "x": 39}}, "fields": {"35,26": {"defaultState": "blue"}, "36,25": {"defaultState": "blue"}, "15,20": {"defaultState": "red"}, "14,21": {"defaultState": "red"}}, "switches": {}, "15,18": {"cooldown": 0, "destination": {"y": 23, "x": 11}}}

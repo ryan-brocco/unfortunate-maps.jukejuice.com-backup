@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Diamonds", "author": "abcd"}, "portals": {"30,26": {"cooldown": 0, "destination": {"y": 6, "x": 30}}, "30,6": {"cooldown": 0, "destination": {"y": 26, "x": 30}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

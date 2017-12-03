@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Pop Dollar", "author": "Canvas + Ball-E"}, "portals": {}, "fields": {}, "switches": {"45,13": {"toggle": [{"pos": {"y": 12, "x": 44}}], "timer": 0}, "11,13": {"toggle": [{"pos": {"y": 14, "x": 12}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

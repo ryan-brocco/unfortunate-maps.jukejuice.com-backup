@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Funguje", "author": "LaBeefyman96"}, "portals": {"17,23": {}, "19,23": {"cooldown": 2000, "destination": {"y": 23, "x": 17}}, "25,6": {"cooldown": 2000, "destination": {"y": 6, "x": 27}}, "27,6": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

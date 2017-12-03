@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Quantum by Canvas", "author": "Dove"}, "portals": {}, "fields": {"55,8": {"defaultState": "off"}, "3,8": {"defaultState": "off"}}, "switches": {"4,8": {"toggle": [{"pos": {"y": 8, "x": 3}}], "timer": 0}, "54,8": {"toggle": [{"pos": {"y": 8, "x": 55}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

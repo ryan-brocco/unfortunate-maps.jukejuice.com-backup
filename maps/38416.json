@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Lava (Duel)", "author": "Sizzzled"}, "portals": {"35,21": {}, "5,5": {}, "38,24": {"cooldown": 0, "destination": {"y": 5, "x": 5}}, "2,2": {"cooldown": 0, "destination": {"y": 21, "x": 35}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

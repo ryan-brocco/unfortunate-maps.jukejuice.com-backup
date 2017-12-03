@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Overhead", "author": "Ping Tut"}, "portals": {}, "fields": {}, "switches": {"21,18": {"toggle": [{"pos": {"y": 19, "x": 24}}, {"pos": {"y": 19, "x": 25}}], "timer": 0}, "23,2": {"toggle": [{"pos": {"y": 1, "x": 20}}, {"pos": {"y": 1, "x": 19}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

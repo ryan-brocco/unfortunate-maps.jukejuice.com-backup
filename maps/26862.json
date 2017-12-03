@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Tuft", "author": "Tumblewood"}, "portals": {}, "fields": {"28,17": {"defaultState": "off"}, "30,17": {"defaultState": "off"}, "27,17": {"defaultState": "off"}, "31,17": {"defaultState": "off"}}, "switches": {"29,12": {"toggle": [], "timer": 0}, "29,23": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

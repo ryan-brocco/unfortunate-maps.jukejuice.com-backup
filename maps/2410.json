@@ -1,0 +1,1 @@
+{"info": {"name": "Cattywampus vportal", "author": "Ball-E"}, "switches": {"9,11": {"toggle": [{"pos": {"y": 13, "x": 7}}]}, "57,11": {"toggle": [{"pos": {"y": 13, "x": 59}}]}}, "portals": {"33,8": {"destination": {"y": 6, "x": 33}}, "35,7": {"destination": {"y": 8, "x": 33}}, "31,7": {"destination": {"y": 8, "x": 33}}}, "fields": {}}

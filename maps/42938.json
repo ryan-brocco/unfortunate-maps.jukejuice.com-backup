@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Catalyst", "author": "NotSomeBall2"}, "portals": {}, "fields": {}, "switches": {"9,11": {"toggle": [{"pos": {"y": 9, "x": 9}}], "timer": 0}, "37,19": {"toggle": [{"pos": {"y": 21, "x": 37}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

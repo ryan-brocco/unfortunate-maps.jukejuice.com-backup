@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravity", "name": "Liftoff", "author": "Anonymous"}, "portals": {"26,30": {"cooldown": 0, "destination": {"y": 42, "x": 15}}, "15,42": {}, "28,30": {"cooldown": 0, "destination": {"y": 42, "x": 39}}, "39,42": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

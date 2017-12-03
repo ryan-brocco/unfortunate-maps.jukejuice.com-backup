@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Montagne", "author": "Aniball & ThePlaymaker"}, "portals": {"20,7": {"cooldown": 0, "destination": {"y": 6, "x": 30}}, "40,7": {"cooldown": 0, "destination": {"y": 6, "x": 30}}, "30,6": {"cooldown": 0, "destination": {"y": 1, "x": 30}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

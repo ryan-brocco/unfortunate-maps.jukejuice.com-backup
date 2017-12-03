@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Tycoon", "author": "Ping Tut"}, "portals": {}, "fields": {}, "switches": {"35,14": {"toggle": [{"pos": {"y": 20, "x": 42}}, {"pos": {"y": 20, "x": 40}}], "timer": 0}, "9,14": {"toggle": [{"pos": {"y": 20, "x": 2}}, {"pos": {"y": 20, "x": 4}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Fault Line", "author": "TheEpicGhost & samouree"}, "portals": {"14,12": {"cooldown": 2, "destination": {"y": 8, "x": 10}}, "10,8": {"cooldown": 0}, "26,22": {"cooldown": 0}, "22,18": {"cooldown": 2, "destination": {"y": 22, "x": 26}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

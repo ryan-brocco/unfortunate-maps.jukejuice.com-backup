@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "button", "author": "Canvas"}, "portals": {}, "fields": {"33,13": {"defaultState": "off"}, "16,12": {"defaultState": "off"}, "32,12": {"defaultState": "off"}, "15,13": {"defaultState": "off"}}, "switches": {"14,11": {"toggle": [], "timer": 0}, "34,11": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

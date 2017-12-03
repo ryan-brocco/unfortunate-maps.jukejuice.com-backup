@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "2v2", "author": "Ping Tut"}, "portals": {}, "fields": {}, "switches": {"45,15": {"toggle": [{"pos": {"y": 15, "x": 46}}], "timer": 0}, "11,15": {"toggle": [{"pos": {"y": 15, "x": 10}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

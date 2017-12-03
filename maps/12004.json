@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravityCTF", "name": "Spin Cycle", "author": "Loper"}, "portals": {"10,29": {}, "69,29": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 16, "x": 21, "radius": 5, "weight": 1}], "red": [{"y": 16, "x": 58, "radius": 5, "weight": 1}]}}

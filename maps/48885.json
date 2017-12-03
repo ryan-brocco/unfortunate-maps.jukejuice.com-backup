@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "nate the snake dot gov", "author": "bicycle"}, "portals": {}, "fields": {}, "switches": {"25,12": {"toggle": [{"pos": {"y": 10, "x": 22}}, {"pos": {"y": 11, "x": 22}}], "timer": 0}, "29,33": {"toggle": [{"pos": {"y": 35, "x": 32}}, {"pos": {"y": 34, "x": 32}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

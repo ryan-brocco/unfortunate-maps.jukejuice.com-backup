@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Swish", "author": "Tumblewood"}, "portals": {"32,22": {"cooldown": 5000, "destination": {"y": 17, "x": 27}}, "22,12": {"cooldown": 5000, "destination": {"y": 17, "x": 27}}, "27,17": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

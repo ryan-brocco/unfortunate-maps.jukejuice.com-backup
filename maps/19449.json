@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Fast Map", "author": "Anonymous"}, "portals": {"3,9": {}, "8,9": {"cooldown": 0, "destination": {"y": 9, "x": 3}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 9, "x": 11, "radius": 5, "weight": 1}], "red": [{"y": 9, "x": 4, "radius": 5, "weight": 1}]}}

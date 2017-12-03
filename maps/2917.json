@@ -1,0 +1,1 @@
+{"info": {"name": "First Map", "author": "ooza"}, "switches": {}, "portals": {"24,0": {"destination": {"y": 0, "x": 24}}, "17,0": {"destination": {"y": 0, "x": 17}}, "15,0": {"destination": {"y": 0, "x": 15}}, "8,0": {"destination": {"y": 0, "x": 8}}}, "fields": {"17,1": {"defaultState": "red"}, "15,1": {"defaultState": "blue"}}}

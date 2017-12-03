@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Oval", "author": "Grapefruit"}, "portals": {"31,5": {"cooldown": 7000, "destination": {"y": 17, "x": 31}}, "31,17": {"cooldown": 7000, "destination": {"y": 5, "x": 31}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

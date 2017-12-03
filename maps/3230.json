@@ -1,0 +1,1 @@
+{"info": {"name": "Quomp", "author": "Grapefruit"}, "switches": {}, "portals": {"44,24": {"cooldown": 5000, "destination": {"y": 20, "x": 50}}, "2,6": {"cooldown": 5000, "destination": {"y": 2, "x": 8}}, "8,2": {"cooldown": 5000, "destination": {"y": 6, "x": 2}}, "50,20": {"cooldown": 5000, "destination": {"y": 24, "x": 44}}}, "fields": {}}

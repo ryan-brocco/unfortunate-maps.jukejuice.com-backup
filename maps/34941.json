@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "hold the fort", "author": "Anonymous"}, "portals": {"17,7": {}, "17,8": {"cooldown": 0, "destination": {"y": 7, "x": 17}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 4, "x": 17, "radius": 5, "weight": 1}], "red": [{"y": 16, "x": 17, "radius": 5, "weight": 1}]}}

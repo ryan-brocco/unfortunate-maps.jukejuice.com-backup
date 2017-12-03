@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Barrage", "author": "bad"}, "portals": {"12,19": {}, "39,12": {"cooldown": 0, "destination": {"y": 11, "x": 40}}, "13,18": {"cooldown": 0, "destination": {"y": 19, "x": 12}}, "40,11": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

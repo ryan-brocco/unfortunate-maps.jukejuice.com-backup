@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Monaco", "author": "Ho-Hum"}, "portals": {}, "fields": {}, "switches": {"22,23": {"toggle": [{"pos": {"y": 25, "x": 18}}], "timer": 0}, "36,23": {"toggle": [{"pos": {"y": 25, "x": 40}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

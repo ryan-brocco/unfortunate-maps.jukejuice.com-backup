@@ -1,0 +1,1 @@
+{"info": {"name": "Suction Cups", "author": "3z"}, "switches": {"5,33": {"toggle": [{"pos": {"y": 37, "x": 1}}]}, "33,5": {"toggle": [{"pos": {"y": 1, "x": 37}}]}}, "portals": {"9,28": {"destination": {"y": 14, "x": 1}}, "29,10": {"destination": {"y": 24, "x": 37}}, "3,35": {"destination": {"y": 28, "x": 9}}, "35,3": {"destination": {"y": 10, "x": 29}}}, "fields": {}}

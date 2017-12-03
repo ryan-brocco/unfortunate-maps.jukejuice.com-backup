@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Wick", "author": "NotSomeBall2"}, "portals": {}, "fields": {}, "switches": {"14,25": {"toggle": [{"pos": {"y": 25, "x": 16}}], "timer": 0}, "36,9": {"toggle": [{"pos": {"y": 9, "x": 34}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

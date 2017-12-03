@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Hovito", "author": "Renegade"}, "portals": {"17,45": {"cooldown": 10, "destination": {"y": 45, "x": 33}}, "33,45": {"cooldown": 10, "destination": {"y": 45, "x": 17}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

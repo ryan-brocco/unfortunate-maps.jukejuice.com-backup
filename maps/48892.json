@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Wobinar", "author": "Ball-E"}, "portals": {}, "fields": {}, "switches": {"20,15": {"toggle": [{"pos": {"y": 15, "x": 25}}, {"pos": {"y": 16, "x": 25}}], "timer": 0}, "40,11": {"toggle": [{"pos": {"y": 11, "x": 35}}, {"pos": {"y": 10, "x": 35}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

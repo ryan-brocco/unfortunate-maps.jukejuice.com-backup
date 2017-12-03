@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Falcon", "author": "hayes13"}, "portals": {"30,1": {}, "6,35": {}, "35,6": {}, "1,30": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 29, "x": 7, "radius": 2, "weight": 1}], "red": [{"y": 7, "x": 29, "radius": 2, "weight": 1}]}}

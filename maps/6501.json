@@ -1,0 +1,1 @@
+{"info": {"name": "Concept 1", "author": "CC Team 10"}, "switches": {}, "portals": {"2,5": {"destination": {"y": 4, "x": 22}}, "22,4": {"destination": {"y": 1, "x": 8}}, "42,5": {"destination": {"y": 4, "x": 22}}}, "fields": {"41,5": {"defaultState": "red"}, "3,5": {"defaultState": "blue"}, "42,6": {"defaultState": "red"}, "2,6": {"defaultState": "blue"}}}

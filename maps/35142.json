@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Putingt", "author": "Ping Tut"}, "portals": {}, "fields": {"17,14": {"defaultState": "off"}, "25,12": {"defaultState": "off"}}, "switches": {"14,17": {"toggle": [{"pos": {"y": 14, "x": 17}}], "timer": 0}, "28,9": {"toggle": [{"pos": {"y": 12, "x": 25}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

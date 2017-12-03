@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Lop", "author": "Tumblewood"}, "portals": {}, "fields": {"30,3": {"defaultState": "off"}, "30,5": {"defaultState": "off"}}, "switches": {"28,7": {"toggle": [{"pos": {"y": 3, "x": 30}}, {"pos": {"y": 5, "x": 30}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

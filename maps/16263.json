@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Asymmetrical Velocity", "author": "Tumblewood"}, "portals": {}, "fields": {}, "switches": {"14,6": {"toggle": [{"pos": {"y": 6, "x": 18}}], "timer": 0}, "17,26": {"toggle": [{"pos": {"y": 33, "x": 11}}, {"pos": {"y": 32, "x": 10}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

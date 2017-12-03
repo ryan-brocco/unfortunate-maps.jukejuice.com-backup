@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Weepy Man", "author": "The Mapmaker Formerly Known As Dove"}, "portals": {}, "fields": {}, "switches": {"23,32": {"toggle": [{"pos": {"y": 34, "x": 22}}], "timer": 0}, "31,32": {"toggle": [{"pos": {"y": 34, "x": 32}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

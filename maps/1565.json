@@ -1,0 +1,1 @@
+{"info": {"name": "Spaceship", "author": "Loaha"}, "switches": {}, "portals": {"10,22": {"cooldown": 0, "destination": {"y": 33, "x": 21}}, "10,14": {"cooldown": 0, "destination": {"y": 3, "x": 21}}, "10,12": {"cooldown": 0, "destination": {"y": 14, "x": 10}}, "10,24": {"cooldown": 0, "destination": {"y": 22, "x": 10}}}, "fields": {}}

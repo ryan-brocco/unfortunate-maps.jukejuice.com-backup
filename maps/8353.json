@@ -1,0 +1,1 @@
+{"info": {"name": "Sir Toasty", "author": "Danny"}, "switches": {"22,24": {"toggle": [{"pos": {"y": 22, "x": 20}}, {"pos": {"y": 21, "x": 21}}, {"pos": {"y": 21, "x": 23}}, {"pos": {"y": 22, "x": 24}}]}}, "portals": {}, "fields": {"21,21": {"defaultState": "red"}, "24,22": {"defaultState": "blue"}, "23,21": {"defaultState": "blue"}, "20,22": {"defaultState": "red"}}}

@@ -1,0 +1,1 @@
+{"info": {"name": "4 Corners", "author": "Ibrahimovic"}, "switches": {}, "portals": {"48,48": {"destination": {"y": 35, "x": 24}}, "1,48": {"destination": {"y": 35, "x": 24}}, "1,1": {"destination": {"y": 14, "x": 24}}, "48,1": {"destination": {"y": 14, "x": 24}}, "24,35": {"destination": {"y": 35, "x": 24}}, "24,14": {"destination": {"y": 14, "x": 24}}}, "fields": {}}

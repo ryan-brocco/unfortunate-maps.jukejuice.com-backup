@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Dismantled", "author": "velkin"}, "portals": {}, "fields": {}, "switches": {"31,27": {"toggle": [{"pos": {"y": 30, "x": 35}}, {"pos": {"y": 29, "x": 34}}], "timer": 0}, "19,9": {"toggle": [{"pos": {"y": 6, "x": 15}}, {"pos": {"y": 7, "x": 16}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

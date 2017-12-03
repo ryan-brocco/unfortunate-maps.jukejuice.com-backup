@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravityCTF", "name": "Plasma", "author": "Canvas"}, "portals": {}, "fields": {}, "switches": {"46,26": {"toggle": [{"pos": {"y": 28, "x": 44}}], "timer": 0}, "4,4": {"toggle": [{"pos": {"y": 2, "x": 6}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

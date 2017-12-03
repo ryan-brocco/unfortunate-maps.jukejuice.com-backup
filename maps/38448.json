@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Holy Trinity", "author": "Dr. Juke"}, "portals": {"20,4": {"cooldown": 0, "destination": {"y": 6, "x": 9}}, "20,29": {"cooldown": 60000, "destination": {"y": 4, "x": 20}}, "20,16": {"cooldown": 0, "destination": {"y": 29, "x": 20}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

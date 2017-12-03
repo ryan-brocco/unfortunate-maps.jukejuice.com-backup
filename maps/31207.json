@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Acid Map", "author": "Chance the Mapper"}, "portals": {"26,11": {"cooldown": 5000}, "26,17": {"cooldown": 5000, "destination": {"y": 11, "x": 26}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

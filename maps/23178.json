@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Blocker", "author": "OG_Diddles"}, "portals": {}, "fields": {}, "switches": {"16,32": {"toggle": [{"pos": {"y": 28, "x": 20}}], "timer": 0}, "32,16": {"toggle": [{"pos": {"y": 20, "x": 28}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

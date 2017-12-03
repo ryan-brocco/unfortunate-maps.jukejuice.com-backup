@@ -1,0 +1,1 @@
+{"info": {"name": "Button example", "author": "I_mess_up"}, "switches": {"6,1": {"toggle": [{"pos": {"y": 2, "x": 5}}]}, "4,1": {"toggle": [{"pos": {"y": 2, "x": 5}}]}, "5,4": {"toggle": [{"pos": {"y": 2, "x": 5}}]}}, "portals": {}, "fields": {"5,2": {"defaultState": "off"}}}

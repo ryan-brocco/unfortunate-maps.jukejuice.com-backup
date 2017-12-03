@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "WTF is this?", "author": "ThePlaymaker"}, "portals": {}, "fields": {}, "switches": {"17,2": {"toggle": [{"pos": {"y": 3, "x": 22}}, {"pos": {"y": 2, "x": 21}}], "timer": 0}, "31,28": {"toggle": [{"pos": {"y": 27, "x": 26}}, {"pos": {"y": 28, "x": 27}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

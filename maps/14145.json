@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "portal concept", "author": "Canvas"}, "portals": {"6,3": {"cooldown": 10000, "destination": {"y": 0, "x": 9}}, "9,0": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": [{"y": 0, "x": 0, "radius": 5, "weight": 1}]}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravityCTF", "name": "mapj", "author": "Anonymous"}, "portals": {"9,10": {}, "49,18": {}}, "fields": {"9,11": {"defaultState": "red"}, "49,17": {"defaultState": "blue"}, "48,18": {"defaultState": "blue"}, "10,10": {"defaultState": "red"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

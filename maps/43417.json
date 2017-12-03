@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Atrium", "author": "im_not_liquid"}, "portals": {}, "fields": {}, "switches": {"32,13": {"toggle": [{"pos": {"y": 13, "x": 25}}], "timer": 0}, "18,13": {"toggle": [{"pos": {"y": 13, "x": 25}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

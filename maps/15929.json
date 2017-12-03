@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Geometry", "author": "Canvas & duckson"}, "portals": {}, "fields": {"43,22": {"defaultState": "off"}, "15,8": {"defaultState": "off"}}, "switches": {"44,22": {"toggle": [{"pos": {"y": 22, "x": 43}}], "timer": 0}, "14,8": {"toggle": [{"pos": {"y": 8, "x": 15}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

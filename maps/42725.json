@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravityCTF", "name": "Free Returns", "author": "9bob9"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 8, "x": 1, "radius": 5, "weight": 1}], "red": [{"y": 1, "x": 1, "radius": 5, "weight": 11000}]}}

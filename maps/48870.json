@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Wobinar", "author": "Anonymous"}, "portals": {}, "fields": {"6,14": {"defaultState": "off"}, "54,12": {"defaultState": "off"}}, "switches": {"4,12": {"toggle": [{"pos": {"y": 14, "x": 6}}], "timer": 0}, "56,14": {"toggle": [{"pos": {"y": 12, "x": 54}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

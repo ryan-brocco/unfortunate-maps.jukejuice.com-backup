@@ -1,0 +1,1 @@
+{"info": {"name": "DualBit #4069", "author": "Wolas"}, "switches": {"8,7": {"toggle": [{"pos": {"y": 7, "x": 9}}]}, "11,7": {"toggle": [{"pos": {"y": 7, "x": 10}}]}}, "portals": {}, "fields": {"9,7": {"defaultState": "on"}, "10,7": {"defaultState": "on"}}}

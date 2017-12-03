@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Swoosh", "author": "Tumblewood"}, "portals": {"53,23": {"cooldown": 5000}, "1,11": {"cooldown": 5000}, "17,26": {"cooldown": 0, "destination": {"y": 11, "x": 1}}, "37,8": {"cooldown": 0, "destination": {"y": 23, "x": 53}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

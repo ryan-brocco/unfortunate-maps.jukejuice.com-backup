@@ -1,0 +1,1 @@
+{"info": {"name": "map edit", "author": "ooza"}, "switches": {}, "portals": {"17,1": {"destination": {"y": 13, "x": 1}}, "15,1": {"destination": {"y": 13, "x": 31}}}, "fields": {"15,2": {"defaultState": "blue"}, "17,2": {"defaultState": "red"}}}

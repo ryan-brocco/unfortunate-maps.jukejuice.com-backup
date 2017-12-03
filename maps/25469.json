@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Apollo", "author": "voyager"}, "portals": {}, "fields": {"22,16": {"defaultState": "red"}, "22,14": {"defaultState": "red"}, "22,15": {"defaultState": "red"}, "32,20": {"defaultState": "blue"}, "32,19": {"defaultState": "blue"}, "32,18": {"defaultState": "blue"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

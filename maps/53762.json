@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "El Dorado", "author": "Dr. Juke"}, "portals": {}, "fields": {}, "switches": {"43,12": {"toggle": [{"pos": {"y": 12, "x": 46}}, {"pos": {"y": 15, "x": 43}}], "timer": 0}, "5,10": {"toggle": [{"pos": {"y": 10, "x": 2}}, {"pos": {"y": 7, "x": 5}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

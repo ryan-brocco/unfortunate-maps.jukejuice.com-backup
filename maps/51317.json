@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Dragon", "author": "Defend"}, "portals": {}, "fields": {"28,25": {"defaultState": "on"}, "28,3": {"defaultState": "on"}}, "switches": {"28,14": {"toggle": [{"pos": {"y": 3, "x": 28}}, {"pos": {"y": 25, "x": 28}}], "timer": 9999}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

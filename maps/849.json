@@ -1,0 +1,1 @@
+{"info": {"name": "Skirmish", "author": "Sizzzled"}, "switches": {"9,6": {"toggle": [{"pos": {"y": 5, "x": 7}}, {"pos": {"y": 4, "x": 8}}, {"pos": {"y": 16, "x": 20}}]}, "31,26": {"toggle": [{"pos": {"y": 16, "x": 20}}, {"pos": {"y": 28, "x": 32}}, {"pos": {"y": 27, "x": 33}}]}}, "portals": {}, "fields": {"20,16": {"defaultState": "off"}}}

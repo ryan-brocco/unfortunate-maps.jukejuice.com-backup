@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Vendetta", "author": "velkin"}, "portals": {}, "fields": {}, "switches": {"9,22": {"toggle": [{"pos": {"y": 21, "x": 11}}], "timer": 0}, "41,22": {"toggle": [{"pos": {"y": 21, "x": 39}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

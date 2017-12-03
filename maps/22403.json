@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "SpikeNeutral", "author": "is0lation"}, "portals": {"9,9": {}, "3,3": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 8, "x": 8, "radius": 5, "weight": 10}], "red": [{"y": 4, "x": 4, "radius": 5, "weight": 1}]}}

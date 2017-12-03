@@ -1,0 +1,1 @@
+{"info": {"name": "Moon", "author": "kLutz"}, "switches": {"25,30": {"toggle": [{"pos": {"y": 24, "x": 24}}, {"pos": {"y": 24, "x": 25}}]}, "35,24": {"toggle": [{"pos": {"y": 24, "x": 37}}]}, "25,18": {"toggle": [{"pos": {"y": 24, "x": 24}}, {"pos": {"y": 24, "x": 25}}]}}, "portals": {}, "fields": {"24,24": {"defaultState": "off"}, "25,24": {"defaultState": "off"}}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Ditch", "author": "PiT"}, "portals": {}, "fields": {"34,15": {"defaultState": "off"}, "34,14": {"defaultState": "off"}, "10,6": {"defaultState": "off"}, "10,5": {"defaultState": "off"}}, "switches": {"35,11": {"toggle": [], "timer": 0}, "9,9": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

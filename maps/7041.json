@@ -1,0 +1,1 @@
+{"info": {"name": "i am sorry", "author": "CC Team 3"}, "switches": {"17,21": {"toggle": [{"pos": {"y": 21, "x": 19}}]}, "33,5": {"toggle": [{"pos": {"y": 5, "x": 31}}]}}, "portals": {"33,1": {"destination": {"y": 4, "x": 29}}, "29,4": {"destination": {"y": 5, "x": 22}}, "21,22": {"destination": {"y": 21, "x": 28}}, "17,25": {"destination": {"y": 22, "x": 21}}}, "fields": {}}

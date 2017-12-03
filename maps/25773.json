@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "hi", "author": "ccga4"}, "portals": {"45,3": {"cooldown": 0, "destination": {"y": 12, "x": 37}}, "37,12": {}, "11,16": {}, "3,25": {"cooldown": 0, "destination": {"y": 16, "x": 11}}}, "fields": {"44,4": {"defaultState": "blue"}, "4,24": {"defaultState": "red"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

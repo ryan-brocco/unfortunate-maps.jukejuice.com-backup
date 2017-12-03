@@ -1,0 +1,1 @@
+{"info": {"name": "FLMAO", "author": "Canvas"}, "switches": {"18,15": {"toggle": [{"pos": {"y": 13, "x": 22}}, {"pos": {"y": 14, "x": 21}}]}, "26,11": {"toggle": [{"pos": {"y": 13, "x": 22}}, {"pos": {"y": 12, "x": 23}}]}}, "portals": {}, "fields": {"23,12": {"defaultState": "off"}, "22,13": {"defaultState": "off"}, "21,14": {"defaultState": "off"}}}

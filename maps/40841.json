@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Orbular", "author": "SexyDuckFabio"}, "portals": {}, "fields": {}, "switches": {"27,10": {"toggle": [{"pos": {"y": 11, "x": 21}}, {"pos": {"y": 11, "x": 25}}], "timer": 0}, "19,12": {"toggle": [{"pos": {"y": 11, "x": 25}}, {"pos": {"y": 11, "x": 21}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

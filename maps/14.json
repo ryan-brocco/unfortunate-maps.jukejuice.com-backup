@@ -1,0 +1,1 @@
+{"info": {"name": "Swirl World", "author": "Jungle Spice"}, "switches": {}, "portals": {"20,7": {"destination": {"y": 26, "x": 27}, "cooldown": 0}, "22,25": {"destination": {"y": 6, "x": 15}, "cooldown": 0}}, "fields": {"23,24": {"defaultState": "blue"}, "23,25": {"defaultState": "blue"}, "19,8": {"defaultState": "red"}, "19,7": {"defaultState": "red"}}}

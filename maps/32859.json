@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Fault", "author": "TEG"}, "portals": {}, "fields": {}, "switches": {"35,23": {"toggle": [{"pos": {"y": 22, "x": 34}}], "timer": 0}, "16,11": {"toggle": [{"pos": {"y": 12, "x": 17}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

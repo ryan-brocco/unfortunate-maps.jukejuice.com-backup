@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Saffron", "author": "Canvas"}, "portals": {}, "fields": {}, "switches": {"27,20": {"toggle": [{"pos": {"y": 22, "x": 25}}], "timer": 0}, "29,20": {"toggle": [{"pos": {"y": 22, "x": 31}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

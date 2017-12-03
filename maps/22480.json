@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravity", "name": "Birthday Tower 2 P1", "author": "Perp"}, "portals": {}, "fields": {}, "switches": {"16,4": {"toggle": [], "timer": 0}, "15,4": {"toggle": [], "timer": 0}, "14,4": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [{"y": 21, "x": 27, "radius": 5, "weight": 1}], "red": [{"y": 21, "x": 3, "radius": 5, "weight": 1}]}}

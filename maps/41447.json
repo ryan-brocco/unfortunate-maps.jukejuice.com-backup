@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Boombox", "author": "&Berk"}, "portals": {}, "fields": {}, "switches": {"11,10": {"toggle": [], "timer": 0}, "39,30": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [{"y": 38, "x": 48, "radius": 5, "weight": 1}], "red": [{"y": 2, "x": 2, "radius": 5, "weight": 1}]}}

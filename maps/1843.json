@@ -1,0 +1,1 @@
+{"info": {"name": "Banzai Bill", "author": "Sizzzled"}, "switches": {}, "portals": {"11,19": {}, "14,16": {"cooldown": 0, "destination": {"y": 17, "x": 11}}, "14,20": {"cooldown": 0, "destination": {"y": 19, "x": 11}}, "11,17": {}}, "fields": {"30,29": {"defaultState": "blue"}, "30,7": {"defaultState": "red"}}}

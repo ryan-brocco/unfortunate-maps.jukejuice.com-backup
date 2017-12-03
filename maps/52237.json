@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "prototype 2", "author": "ball-e"}, "portals": {}, "fields": {"12,34": {"defaultState": "off"}, "12,33": {"defaultState": "off"}, "12,32": {"defaultState": "off"}}, "switches": {"10,33": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

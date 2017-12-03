@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Asylum", "author": "JuicyJuke & Clydas"}, "portals": {}, "fields": {}, "switches": {"19,2": {"toggle": [{"pos": {"y": 6, "x": 21}}], "timer": 0}, "31,25": {"toggle": [{"pos": {"y": 21, "x": 29}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

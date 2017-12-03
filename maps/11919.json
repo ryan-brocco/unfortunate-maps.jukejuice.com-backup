@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravityCTF", "name": "BlackHole Fun", "author": "Loper"}, "portals": {"16,25": {}, "38,5": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 27, "x": 21, "radius": 5, "weight": 1}], "red": [{"y": 3, "x": 33, "radius": 5, "weight": 1}]}}

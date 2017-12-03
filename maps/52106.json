@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Demo", "author": "Sensei Osy"}, "portals": {}, "fields": {"30,35": {"defaultState": "off"}}, "switches": {"29,34": {"toggle": [], "timer": 0}, "29,36": {"toggle": [], "timer": 0}, "31,34": {"toggle": [], "timer": 0}, "31,36": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

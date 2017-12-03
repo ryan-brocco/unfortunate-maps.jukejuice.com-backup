@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Cap", "author": "badtie"}, "portals": {"12,8": {}, "24,8": {}, "5,20": {"cooldown": 0, "destination": {"y": 8, "x": 12}}, "31,20": {"cooldown": 0, "destination": {"y": 8, "x": 24}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

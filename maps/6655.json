@@ -1,0 +1,1 @@
+{"info": {"name": "Headstone", "author": "Perpetualist"}, "switches": {"11,3": {"toggle": [{"pos": {"y": 4, "x": 10}}, {"pos": {"y": 4, "x": 11}}, {"pos": {"y": 4, "x": 12}}]}}, "portals": {}, "fields": {"12,4": {"defaultState": "off"}, "11,4": {"defaultState": "off"}, "10,4": {"defaultState": "off"}}}

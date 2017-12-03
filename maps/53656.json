@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "//", "author": "q42"}, "portals": {}, "fields": {}, "switches": {"22,13": {"toggle": [{"pos": {"y": 6, "x": 26}}, {"pos": {"y": 9, "x": 29}}], "timer": 0}, "30,17": {"toggle": [{"pos": {"y": 21, "x": 23}}, {"pos": {"y": 24, "x": 26}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

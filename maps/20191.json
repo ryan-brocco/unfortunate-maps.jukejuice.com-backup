@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Botany 2-Way Portals (3 sec cooldown)", "author": "Canvas"}, "portals": {"27,15": {"cooldown": 3000, "destination": {"y": 17, "x": 27}}, "27,17": {"cooldown": 3000, "destination": {"y": 15, "x": 27}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Guano", "author": "velkin"}, "portals": {}, "fields": {}, "switches": {"27,11": {"toggle": [{"pos": {"y": 9, "x": 28}}, {"pos": {"y": 9, "x": 27}}], "timer": 0}, "28,11": {"toggle": [{"pos": {"y": 9, "x": 27}}, {"pos": {"y": 9, "x": 28}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

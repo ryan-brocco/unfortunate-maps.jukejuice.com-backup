@@ -1,0 +1,1 @@
+{"info": {"name": "test", "author": "the test master general"}, "switches": {"15,0": {"toggle": []}}, "portals": {"2,0": {"destination": {"y": 0, "x": 2}}}, "fields": {"19,0": {"defaultState": "blue"}, "18,0": {"defaultState": "red"}, "17,0": {"defaultState": "on"}, "16,0": {"defaultState": "off"}}}

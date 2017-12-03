@@ -1,0 +1,1 @@
+{"info": {"name": "Mesh", "author": "Defend"}, "switches": {"24,8": {"toggle": [{"pos": {"y": 6, "x": 23}}]}, "20,12": {"toggle": [{"pos": {"y": 14, "x": 21}}]}}, "portals": {"22,6": {"destination": {"y": 14, "x": 22}}, "22,14": {"destination": {"y": 6, "x": 22}}}, "fields": {}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Pyrite", "author": "q42"}, "portals": {"32,3": {"cooldown": 0, "destination": {"y": 25, "x": 18}}, "18,25": {"cooldown": 0, "destination": {"y": 3, "x": 32}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Zylo", "author": "Ball-E"}, "portals": {}, "fields": {"24,12": {"defaultState": "off"}}, "switches": {"31,13": {"toggle": [{"pos": {"y": 12, "x": 24}}], "timer": 0}, "17,13": {"toggle": [{"pos": {"y": 12, "x": 24}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

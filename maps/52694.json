@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Scandinavia", "author": "mathi"}, "portals": {"23,25": {}, "27,25": {}, "23,18": {"cooldown": 0, "destination": {"y": 25, "x": 27}}, "27,18": {"cooldown": 0, "destination": {"y": 25, "x": 23}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

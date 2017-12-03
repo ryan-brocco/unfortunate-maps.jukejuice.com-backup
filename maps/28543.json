@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Climb", "author": "Lucky 24"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 498, "x": 5, "radius": 5, "weight": 1}, {"y": 498, "x": 6, "radius": 5, "weight": 1}], "red": [{"y": 498, "x": 3, "radius": 5, "weight": 1}, {"y": 498, "x": 4, "radius": 5, "weight": 1}]}}

@@ -1,0 +1,1 @@
+{"info": {"name": "Rain", "author": "Al Sharpton"}, "switches": {"9,4": {"toggle": [{"pos": {"y": 3, "x": 8}}]}, "33,1": {"toggle": [{"pos": {"y": 0, "x": 34}}]}, "25,13": {"toggle": [{"pos": {"y": 14, "x": 26}}]}, "1,16": {"toggle": [{"pos": {"y": 17, "x": 0}}]}}, "portals": {}, "fields": {"8,3": {"defaultState": "off"}, "26,14": {"defaultState": "off"}}}

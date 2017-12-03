@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Victory", "author": "velkin"}, "portals": {}, "fields": {}, "switches": {"32,10": {"toggle": [{"pos": {"y": 10, "x": 25}}], "timer": 0}, "18,10": {"toggle": [{"pos": {"y": 10, "x": 25}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

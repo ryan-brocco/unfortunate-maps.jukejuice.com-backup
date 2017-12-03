@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Velociraptor", "author": "Atypop"}, "portals": {}, "fields": {}, "switches": {"6,15": {"toggle": [{"pos": {"y": 19, "x": 6}}], "timer": 0}, "32,25": {"toggle": [{"pos": {"y": 21, "x": 32}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

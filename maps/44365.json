@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Tough Tusk", "author": "Sizzzledove"}, "portals": {"27,20": {"cooldown": 0, "destination": {"y": 8, "x": 27}}, "27,8": {"cooldown": 0, "destination": {"y": 20, "x": 27}}}, "fields": {}, "switches": {"53,15": {"toggle": [], "timer": 0}, "1,13": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

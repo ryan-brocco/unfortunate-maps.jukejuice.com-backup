@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Centaur", "author": "TheEpicGhost"}, "portals": {"22,16": {"cooldown": 0, "destination": {"y": 22, "x": 13}}, "14,22": {"cooldown": 0, "destination": {"y": 16, "x": 21}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Mapis Lazuli", "author": "rickastley"}, "portals": {}, "fields": {}, "switches": {"7,12": {"toggle": [{"pos": {"y": 13, "x": 6}}], "timer": 0}, "13,28": {"toggle": [{"pos": {"y": 27, "x": 14}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

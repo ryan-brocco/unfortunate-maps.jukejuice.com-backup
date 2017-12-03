@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Omni", "author": "superdiglett"}, "portals": {}, "fields": {}, "switches": {"35,25": {"toggle": [{"pos": {"y": 23, "x": 33}}], "timer": 0}, "11,5": {"toggle": [{"pos": {"y": 7, "x": 13}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}
