@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "just another not good map", "author": "A Noob"}, "portals": {}, "fields": {"27,15": {"defaultState": "on"}}, "switches": {"20,17": {"toggle": [{"pos": {"y": 15, "x": 27}}], "timer": 1000}, "34,13": {"toggle": [{"pos": {"y": 15, "x": 27}}], "timer": 1000}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

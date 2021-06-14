@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Acorn", "author": "q42"}, "portals": {}, "fields": {}, "switches": {"19,21": {"toggle": [{"pos": {"y": 21, "x": 17}}], "timer": 0}, "33,13": {"toggle": [{"pos": {"y": 13, "x": 35}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

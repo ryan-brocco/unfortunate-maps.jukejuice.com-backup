@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Gopher", "author": "Tumblewood"}, "portals": {}, "fields": {}, "switches": {"4,12": {"toggle": [{"pos": {"y": 13, "x": 1}}], "timer": 0}, "48,10": {"toggle": [{"pos": {"y": 9, "x": 51}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

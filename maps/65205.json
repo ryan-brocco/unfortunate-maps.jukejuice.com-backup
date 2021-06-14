@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Turvy", "author": "Tumblewood"}, "portals": {}, "fields": {"12,8": {"defaultState": "off"}, "32,24": {"defaultState": "off"}}, "switches": {"34,25": {"toggle": [{"pos": {"y": 24, "x": 32}}], "timer": 0}, "10,7": {"toggle": [{"pos": {"y": 8, "x": 12}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

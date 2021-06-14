@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Gyre", "author": "flaccid trip"}, "portals": {}, "fields": {"15,5": {"defaultState": "blue"}, "25,35": {"defaultState": "red"}, "32,19": {"defaultState": "blue"}, "8,21": {"defaultState": "red"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

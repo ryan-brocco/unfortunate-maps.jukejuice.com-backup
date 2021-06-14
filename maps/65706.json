@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "for nige", "author": "Fronj"}, "portals": {"39,12": {}, "21,24": {}}, "fields": {}, "switches": {"27,12": {"toggle": [], "timer": 0}, "33,24": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [{"y": 16, "x": 41, "radius": 5, "weight": 1}], "red": [{"y": 20, "x": 19, "radius": 5, "weight": 1}]}}

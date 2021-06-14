@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Dead End", "author": "Tumblewood"}, "portals": {}, "fields": {}, "switches": {"22,4": {"toggle": [{"pos": {"y": 4, "x": 25}}], "timer": 0}, "28,4": {"toggle": [{"pos": {"y": 4, "x": 25}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

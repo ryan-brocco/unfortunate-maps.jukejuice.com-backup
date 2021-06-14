@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Toadstool Totem", "author": "Electric_Wood"}, "portals": {"44,10": {}, "43,14": {"cooldown": 0, "destination": {"y": 10, "x": 44}}, "11,14": {"cooldown": 0, "destination": {"y": 10, "x": 10}}, "10,10": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "counterflow", "author": "ball-e"}, "portals": {"13,12": {"cooldown": 0, "destination": {"y": 5, "x": 7}}, "33,31": {}, "27,24": {"cooldown": 0, "destination": {"y": 31, "x": 33}}, "7,5": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

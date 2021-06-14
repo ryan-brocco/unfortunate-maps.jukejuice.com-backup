@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Dogon", "author": "NotSomeBall2"}, "portals": {"30,20": {}, "14,10": {}, "12,12": {"cooldown": 0, "destination": {"y": 10, "x": 14}}, "32,18": {"cooldown": 0, "destination": {"y": 20, "x": 30}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

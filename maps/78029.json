@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Backstop", "author": "Tumblewood"}, "portals": {}, "fields": {}, "switches": {"13,3": {"toggle": [{"pos": {"y": 3, "x": 10}}], "timer": 0}, "31,3": {"toggle": [{"pos": {"y": 3, "x": 34}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

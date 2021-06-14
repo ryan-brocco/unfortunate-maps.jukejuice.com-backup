@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Run", "author": "BigBird"}, "portals": {"24,6": {}, "10,40": {}, "3,40": {"cooldown": 20000, "destination": {"y": 40, "x": 10}}, "31,6": {"cooldown": 20000, "destination": {"y": 6, "x": 24}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

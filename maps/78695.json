@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Cicada", "author": "Equ1"}, "portals": {"25,20": {}, "25,14": {"cooldown": 3000, "destination": {"y": 20, "x": 25}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 6, "x": 42, "radius": 3, "weight": 1}], "red": [{"y": 6, "x": 8, "radius": 3, "weight": 1}]}}

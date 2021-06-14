@@ -1,0 +1,1 @@
+{"info": {"name": "Pop Record", "author": "Ninjroid"}, "switches": {}, "spawnPoints": {"blue": [{"y": 11, "x": 39, "radius": 3}], "red": [{"y": 11, "x": 9, "radius": 3}]}, "fields": {"0,0": {"defaultState": "on"}}}

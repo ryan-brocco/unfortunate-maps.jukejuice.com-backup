@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "test", "author": "Thanos Ball"}, "portals": {"1,21": {"cooldown": 0, "destination": {"y": 32, "x": 10}}, "51,21": {"cooldown": 0, "destination": {"y": 32, "x": 42}}, "10,32": {}, "42,32": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

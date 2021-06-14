@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Rampage", "author": "BoldRoller"}, "portals": {"3,4": {"cooldown": 2000, "destination": {"y": 4, "x": 14}}, "48,20": {}, "2,8": {}, "47,24": {"cooldown": 2000, "destination": {"y": 24, "x": 36}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Draconis 4", "author": "Ball-E"}, "portals": {}, "fields": {"26,24": {"defaultState": "off"}, "12,24": {"defaultState": "off"}}, "switches": {"33,23": {"toggle": [{"pos": {"y": 24, "x": 26}}], "timer": 0}, "5,23": {"toggle": [{"pos": {"y": 24, "x": 12}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

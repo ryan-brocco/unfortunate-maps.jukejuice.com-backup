@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Sky Bridge", "author": "Cheezedoodle"}, "portals": {"29,5": {"cooldown": 0, "destination": {"y": 11, "x": 25}}, "21,17": {"cooldown": 0, "destination": {"y": 11, "x": 25}}, "25,11": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

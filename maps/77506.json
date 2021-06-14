@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Chump", "author": "Fronj"}, "portals": {"30,11": {"cooldown": 5000, "destination": {"y": 21, "x": 20}}, "26,9": {"cooldown": 5000}, "24,23": {"cooldown": 5000}, "20,21": {"cooldown": 5000, "destination": {"y": 11, "x": 30}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "rondo capriccioso", "author": "alantm"}, "portals": {"17,21": {}, "32,21": {"cooldown": 0, "destination": {"y": 21, "x": 35}}, "20,21": {"cooldown": 0, "destination": {"y": 21, "x": 17}}, "35,21": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

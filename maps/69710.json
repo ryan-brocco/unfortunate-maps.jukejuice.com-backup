@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Inertia", "author": "Erza Scarlet and Tumblewood"}, "portals": {}, "fields": {}, "switches": {"15,25": {"toggle": [{"pos": {"y": 25, "x": 18}}], "timer": 0}, "35,25": {"toggle": [{"pos": {"y": 25, "x": 32}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

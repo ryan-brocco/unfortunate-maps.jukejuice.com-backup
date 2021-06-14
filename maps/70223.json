@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Driveshaft", "author": "Ping Tut and Fronj"}, "portals": {"13,12": {"cooldown": 0, "destination": {"y": 10, "x": 7}}, "7,10": {}, "41,16": {}, "35,14": {"cooldown": 0, "destination": {"y": 16, "x": 41}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

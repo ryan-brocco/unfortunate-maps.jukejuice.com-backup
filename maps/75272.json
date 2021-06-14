@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Station", "author": "OuchMyBalls"}, "portals": {"25,4": {}, "33,5": {"cooldown": 3000, "destination": {"y": 4, "x": 25}}, "3,25": {"cooldown": 3000, "destination": {"y": 26, "x": 11}}, "11,26": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

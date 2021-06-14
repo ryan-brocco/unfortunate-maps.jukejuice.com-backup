@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "poopsicle", "author": "flaccid trip"}, "portals": {}, "fields": {}, "switches": {"22,5": {"toggle": [{"pos": {"y": 6, "x": 22}}, {"pos": {"y": 5, "x": 23}}], "timer": 0}, "40,35": {"toggle": [{"pos": {"y": 34, "x": 40}}, {"pos": {"y": 35, "x": 39}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

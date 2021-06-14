@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Cantaloupe ", "author": "OuchMyBalls "}, "portals": {}, "fields": {"29,19": {"defaultState": "off"}, "21,9": {"defaultState": "off"}}, "switches": {"30,19": {"toggle": [{"pos": {"y": 19, "x": 29}}], "timer": 0}, "20,9": {"toggle": [{"pos": {"y": 9, "x": 21}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

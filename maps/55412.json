@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Simulation", "author": "NIGEL"}, "portals": {"21,11": {"cooldown": 0, "destination": {"y": 21, "x": 21}}, "21,21": {"cooldown": 0, "destination": {"y": 11, "x": 21}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

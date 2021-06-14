@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Starwood", "author": "Zagd"}, "portals": {}, "fields": {"23,4": {"defaultState": "on"}, "23,7": {"defaultState": "off"}, "23,6": {"defaultState": "on"}, "23,3": {"defaultState": "off"}}, "switches": {"28,4": {"toggle": [], "timer": 0}, "18,4": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

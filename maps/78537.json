@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Instant", "author": "Thanos Ball"}, "portals": {}, "fields": {"34,31": {"defaultState": "off"}, "20,13": {"defaultState": "off"}}, "switches": {"19,12": {"toggle": [{"pos": {"y": 13, "x": 20}}], "timer": 0}, "35,32": {"toggle": [{"pos": {"y": 31, "x": 34}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

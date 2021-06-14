@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Mojo Jojo", "author": "Fronj"}, "portals": {"3,22": {}, "32,28": {"cooldown": 5000, "destination": {"y": 22, "x": 43}}, "43,22": {}, "14,28": {"cooldown": 5000, "destination": {"y": 22, "x": 3}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

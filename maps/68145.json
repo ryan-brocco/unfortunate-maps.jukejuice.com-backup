@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "HyperSpace", "author": "WutIsLuv"}, "portals": {"6,18": {}, "52,18": {}}, "fields": {"40,21": {"defaultState": "red"}, "18,21": {"defaultState": "blue"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 12, "x": 27, "radius": 5, "weight": 1}], "red": [{"y": 12, "x": 31, "radius": 5, "weight": 1}]}}

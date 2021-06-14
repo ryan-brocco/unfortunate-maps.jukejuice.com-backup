@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Folklore (demo)", "author": "Equ1"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 20, "x": 30, "radius": 5, "weight": 1}, {"y": 19, "x": 31, "radius": 5, "weight": 1}], "red": [{"y": 9, "x": 11, "radius": 5, "weight": 1}, {"y": 8, "x": 12, "radius": 5, "weight": 1}]}}

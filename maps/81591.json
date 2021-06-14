@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "A Snack-type Map (2 pups)", "author": "Fronj"}, "portals": {"24,13": {"cooldown": 3000, "destination": {"y": 13, "x": 28}}, "28,13": {"cooldown": 3000, "destination": {"y": 13, "x": 24}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

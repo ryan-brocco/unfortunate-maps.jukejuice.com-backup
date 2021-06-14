@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Dovar", "author": "Tumblewood"}, "portals": {"50,6": {"cooldown": 3000, "destination": {"y": 16, "x": 45}}, "2,6": {"cooldown": 3000, "destination": {"y": 16, "x": 7}}, "7,16": {}, "45,16": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

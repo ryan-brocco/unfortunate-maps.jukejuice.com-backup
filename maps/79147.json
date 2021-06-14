@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Flyta", "author": "Pingu"}, "portals": {}, "fields": {}, "switches": {"9,19": {"toggle": [{"pos": {"y": 23, "x": 9}}], "timer": 0}, "35,19": {"toggle": [{"pos": {"y": 23, "x": 35}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [{"y": 14, "x": 36, "radius": 3, "weight": 1}], "red": [{"y": 14, "x": 8, "radius": 3, "weight": 1}]}}

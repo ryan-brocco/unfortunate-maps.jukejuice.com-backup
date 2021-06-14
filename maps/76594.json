@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Barnacle", "author": "Tumblewood"}, "portals": {"13,8": {"cooldown": 7500, "destination": {"y": 12, "x": 8}}, "8,12": {}, "48,12": {}, "43,8": {"cooldown": 7500, "destination": {"y": 12, "x": 48}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

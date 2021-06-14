@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Fiend", "author": "Cosine"}, "portals": {}, "fields": {"25,17": {"defaultState": "off"}, "29,17": {"defaultState": "off"}, "24,16": {"defaultState": "off"}, "30,16": {"defaultState": "off"}}, "switches": {"25,16": {"toggle": [], "timer": 0}, "29,16": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

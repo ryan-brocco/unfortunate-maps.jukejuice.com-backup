@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Nanobot", "author": "Tumblewood"}, "portals": {"18,16": {"cooldown": 0, "destination": {"y": 17, "x": 15}}, "35,17": {}, "15,17": {}, "32,16": {"cooldown": 0, "destination": {"y": 17, "x": 35}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

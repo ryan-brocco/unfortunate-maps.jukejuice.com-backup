@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Tempo", "author": "Fronj"}, "portals": {}, "fields": {"25,22": {"defaultState": "on"}, "17,10": {"defaultState": "on"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 26, "x": 37, "radius": 5, "weight": 1}], "red": [{"y": 6, "x": 5, "radius": 5, "weight": 1}]}}

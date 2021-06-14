@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Silverstone", "author": "StevieBaby"}, "portals": {"18,22": {}, "47,0": {"cooldown": 0, "destination": {"y": 22, "x": 18}}}, "fields": {"23,21": {"defaultState": "off"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 5, "x": 53, "radius": 5, "weight": 1}], "red": [{"y": 2, "x": 39, "radius": 5, "weight": 1}]}}

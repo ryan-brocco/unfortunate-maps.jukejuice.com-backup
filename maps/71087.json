@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Khan", "author": "canvas"}, "portals": {"27,3": {}, "26,3": {"cooldown": 0, "destination": {"y": 7, "x": 27}}, "28,3": {"cooldown": 0, "destination": {"y": 7, "x": 27}}, "27,7": {"cooldown": 1000, "destination": {"y": 3, "x": 27}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

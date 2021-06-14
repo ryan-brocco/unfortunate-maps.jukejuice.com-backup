@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Quickstep", "author": "Pingu"}, "portals": {}, "fields": {}, "switches": {"20,19": {"toggle": [{"pos": {"y": 24, "x": 25}}], "timer": 0}, "14,9": {"toggle": [{"pos": {"y": 4, "x": 9}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

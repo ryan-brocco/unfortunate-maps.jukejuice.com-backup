@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "trtr", "author": "Anonymous"}, "portals": {}, "fields": {"9,6": {"defaultState": "on"}, "10,6": {"defaultState": "on"}}, "switches": {}, "marsballs": [{"y": 8, "x": 0}, {"y": 8, "x": 19}], "spawnPoints": {"blue": [{"y": 0, "x": 19, "radius": 5, "weight": 1}], "red": [{"y": 0, "x": 0, "radius": 5, "weight": 1}]}}

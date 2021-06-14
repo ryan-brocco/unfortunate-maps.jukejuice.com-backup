@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Flaxseed", "author": "Electric_wood"}, "portals": {}, "fields": {}, "switches": {"3,16": {"toggle": [{"pos": {"y": 13, "x": 2}}], "timer": 0}, "22,16": {"toggle": [{"pos": {"y": 19, "x": 23}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

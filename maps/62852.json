@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "BattleAxe", "author": "gooner."}, "portals": {"40,16": {}, "10,16": {}, "45,23": {"cooldown": 0, "destination": {"y": 16, "x": 40}}, "5,23": {"cooldown": 0, "destination": {"y": 16, "x": 10}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Porcelain", "author": "Boo Caw Key"}, "portals": {"26,8": {}, "24,42": {}, "27,42": {"cooldown": 3000, "destination": {"y": 42, "x": 24}}, "23,8": {"cooldown": 3000, "destination": {"y": 8, "x": 26}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

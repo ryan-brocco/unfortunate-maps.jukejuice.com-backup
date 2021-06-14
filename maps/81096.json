@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Swayman", "author": "Homer Jay"}, "portals": {}, "fields": {}, "switches": {"26,22": {"toggle": [{"pos": {"y": 21, "x": 25}}], "timer": 0}, "10,10": {"toggle": [{"pos": {"y": 11, "x": 11}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

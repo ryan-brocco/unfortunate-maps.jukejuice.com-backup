@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "figure eight", "author": "teg"}, "portals": {}, "fields": {}, "switches": {"56,10": {"toggle": [{"pos": {"y": 12, "x": 57}}], "timer": 0}, "2,12": {"toggle": [{"pos": {"y": 10, "x": 1}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

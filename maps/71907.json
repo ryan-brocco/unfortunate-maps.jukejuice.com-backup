@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Backboard remix", "author": "gingerdg + teg"}, "portals": {}, "fields": {"62,11": {"defaultState": "blue"}, "2,9": {"defaultState": "red"}}, "switches": {"60,8": {"toggle": [{"pos": {"y": 11, "x": 62}}], "timer": 0}, "4,12": {"toggle": [{"pos": {"y": 9, "x": 2}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

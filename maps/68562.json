@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravity", "name": "Untitled", "author": "Anonymous"}, "portals": {}, "fields": {"9,6": {"defaultState": "on"}, "11,6": {"defaultState": "on"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": [{"y": 8, "x": 9, "radius": 0, "weight": 1}]}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Monkey", "author": "name333"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 11, "x": 48, "radius": 2, "weight": 1}, {"y": 15, "x": 48, "radius": 2, "weight": 1}], "red": [{"y": 11, "x": 8, "radius": 2, "weight": 1}, {"y": 15, "x": 8, "radius": 2, "weight": 1}]}}

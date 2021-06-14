@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Shackle", "author": "Tumblewood"}, "portals": {}, "fields": {}, "switches": {"37,7": {"toggle": [{"pos": {"y": 7, "x": 35}}], "timer": 0}, "11,7": {"toggle": [{"pos": {"y": 7, "x": 13}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

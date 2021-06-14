@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "claustrophobic", "author": "fronj"}, "portals": {}, "fields": {"21,11": {"defaultState": "off"}}, "switches": {"20,11": {"toggle": [{"pos": {"y": 11, "x": 21}}], "timer": 0}, "22,11": {"toggle": [{"pos": {"y": 11, "x": 21}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

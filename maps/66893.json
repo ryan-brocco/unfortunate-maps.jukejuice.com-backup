@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Roadkill", "author": "Sizzzled"}, "portals": {"27,12": {"cooldown": 2000, "destination": {"y": 20, "x": 21}}, "21,20": {"cooldown": 2000, "destination": {"y": 12, "x": 27}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

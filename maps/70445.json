@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Pantry", "author": "Anonymous"}, "portals": {}, "fields": {}, "switches": {"24,11": {"toggle": [{"pos": {"y": 11, "x": 27}}], "timer": 0}, "45,38": {"toggle": [{"pos": {"y": 38, "x": 42}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Open Field Corner", "author": "does it even matter"}, "portals": {"16,15": {}, "38,31": {"cooldown": 0, "destination": {"y": 15, "x": 16}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 15, "x": 38, "radius": 5, "weight": 1}], "red": [{"y": 31, "x": 16, "radius": 1, "weight": 1}]}}

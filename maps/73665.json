@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Hegemony", "author": "DaEvil1"}, "portals": {"20,25": {}, "21,6": {}, "39,25": {"cooldown": 0, "destination": {"y": 25, "x": 20}}, "2,6": {"cooldown": 0, "destination": {"y": 6, "x": 21}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

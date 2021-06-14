@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "use the boost and live", "author": "Anonymous"}, "portals": {}, "fields": {"8,6": {"defaultState": "on"}, "4,6": {"defaultState": "on"}, "6,6": {"defaultState": "on"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 4, "x": 5, "radius": 5, "weight": 1}], "red": [{"y": 3, "x": 3, "radius": 5, "weight": 1}]}}

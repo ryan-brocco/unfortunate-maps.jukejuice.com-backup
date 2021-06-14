@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "shit map", "author": "not sass"}, "portals": {}, "fields": {"15,25": {"defaultState": "off"}, "16,25": {"defaultState": "off"}, "21,25": {"defaultState": "off"}, "20,25": {"defaultState": "off"}}, "switches": {"18,23": {"toggle": [], "timer": 0}, "18,27": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

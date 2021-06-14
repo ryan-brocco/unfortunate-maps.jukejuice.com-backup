@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Querimony", "author": "A Noob"}, "portals": {"22,4": {"cooldown": 0, "destination": {"y": 10, "x": 23}}, "23,10": {}, "24,16": {"cooldown": 0, "destination": {"y": 10, "x": 23}}}, "fields": {}, "switches": {"15,17": {"toggle": [], "timer": 0}, "31,3": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

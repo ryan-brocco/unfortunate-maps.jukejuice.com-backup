@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Jack Jumper", "author": "Raven"}, "portals": {"29,13": {}, "23,7": {"cooldown": 5000, "destination": {"y": 13, "x": 29}}, "35,7": {"cooldown": 5000, "destination": {"y": 13, "x": 29}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

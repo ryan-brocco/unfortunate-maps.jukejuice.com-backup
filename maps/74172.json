@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Accite", "author": "Snowball"}, "portals": {"8,5": {}, "15,10": {"cooldown": 1250, "destination": {"y": 5, "x": 8}}, "29,11": {"cooldown": 1250, "destination": {"y": 16, "x": 36}}, "36,16": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

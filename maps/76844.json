@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Twofer 4", "author": "Tumblewood"}, "portals": {"30,13": {}, "18,13": {}, "20,11": {"cooldown": 0, "destination": {"y": 13, "x": 18}}, "28,11": {"cooldown": 0, "destination": {"y": 13, "x": 30}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

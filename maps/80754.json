@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Fizzzled - reference wip", "author": "Electric_wood"}, "portals": {}, "fields": {}, "switches": {"30,24": {"toggle": [{"pos": {"y": 26, "x": 28}}], "timer": 0}, "24,24": {"toggle": [{"pos": {"y": 26, "x": 26}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

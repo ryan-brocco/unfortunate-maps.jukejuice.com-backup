@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Schneef gate 2", "author": "PIZZAspartan"}, "portals": {}, "fields": {"35,1": {"defaultState": "blue"}, "9,1": {"defaultState": "red"}}, "switches": {"32,7": {"toggle": [{"pos": {"y": 1, "x": 35}}], "timer": 0}, "12,7": {"toggle": [{"pos": {"y": 1, "x": 9}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

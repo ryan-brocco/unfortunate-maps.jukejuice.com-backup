@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Collaboration", "author": "Fronj"}, "portals": {}, "fields": {"38,19": {"defaultState": "off"}, "22,15": {"defaultState": "off"}}, "switches": {"36,17": {"toggle": [{"pos": {"y": 19, "x": 38}}], "timer": 0}, "24,17": {"toggle": [{"pos": {"y": 15, "x": 22}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

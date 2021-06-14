@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Borderline", "author": "Snowball"}, "portals": {}, "fields": {}, "switches": {"39,18": {"toggle": [{"pos": {"y": 27, "x": 37}}, {"pos": {"y": 26, "x": 38}}], "timer": 0}, "21,16": {"toggle": [{"pos": {"y": 7, "x": 23}}, {"pos": {"y": 8, "x": 22}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "nou", "author": "AtomicBort"}, "portals": {}, "fields": {"15,28": {"defaultState": "off"}, "29,14": {"defaultState": "off"}}, "switches": {"27,12": {"toggle": [{"pos": {"y": 14, "x": 29}}], "timer": 0}, "17,30": {"toggle": [{"pos": {"y": 28, "x": 15}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "The new meta", "author": "Anonymous"}, "portals": {"26,14": {"cooldown": 0, "destination": {"y": 20, "x": 26}}, "26,20": {"cooldown": 0, "destination": {"y": 14, "x": 26}}}, "fields": {}, "switches": {"28,10": {"toggle": [], "timer": 0}, "24,24": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

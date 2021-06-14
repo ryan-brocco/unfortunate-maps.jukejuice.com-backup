@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Harris Hollow", "author": "Electric_Wood"}, "portals": {}, "fields": {}, "switches": {"11,18": {"toggle": [{"pos": {"y": 19, "x": 14}}], "timer": 0}, "31,2": {"toggle": [{"pos": {"y": 1, "x": 28}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Sun June (1-way)", "author": "Equ1"}, "portals": {"22,17": {"cooldown": 1500, "destination": {"y": 17, "x": 16}}, "16,17": {}, "24,6": {"cooldown": 1500, "destination": {"y": 6, "x": 30}}, "30,6": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

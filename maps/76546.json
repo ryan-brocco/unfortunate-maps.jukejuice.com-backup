@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Haven", "author": "DragonBeast"}, "portals": {"24,21": {"cooldown": 5000, "destination": {"y": 5, "x": 34}}, "34,5": {}, "34,21": {"cooldown": 5000, "destination": {"y": 5, "x": 24}}, "24,5": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

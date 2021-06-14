@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Irritation", "author": "Nreumii"}, "portals": {}, "fields": {}, "switches": {"18,13": {"toggle": [{"pos": {"y": 14, "x": 20}}, {"pos": {"y": 15, "x": 20}}], "timer": 0}, "22,13": {"toggle": [{"pos": {"y": 14, "x": 20}}, {"pos": {"y": 15, "x": 20}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

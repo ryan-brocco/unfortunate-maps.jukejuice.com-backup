@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Blacktop", "author": "Tumblewood"}, "portals": {}, "fields": {}, "switches": {"38,21": {"toggle": [{"pos": {"y": 20, "x": 41}}], "timer": 0}, "10,7": {"toggle": [{"pos": {"y": 8, "x": 7}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

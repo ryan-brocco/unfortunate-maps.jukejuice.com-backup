@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Liquorisk", "author": "Electric_Wood"}, "portals": {}, "fields": {}, "switches": {"37,24": {"toggle": [{"pos": {"y": 17, "x": 42}}], "timer": 0}, "9,8": {"toggle": [{"pos": {"y": 15, "x": 4}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

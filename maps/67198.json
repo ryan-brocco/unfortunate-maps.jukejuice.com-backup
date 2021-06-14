@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Ocean Map", "author": "PIZZAspartan"}, "portals": {}, "fields": {}, "switches": {"53,16": {"toggle": [{"pos": {"y": 24, "x": 49}}], "timer": 0}, "3,12": {"toggle": [{"pos": {"y": 4, "x": 7}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

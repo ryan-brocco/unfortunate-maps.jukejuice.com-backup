@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Dredge", "author": "03z"}, "portals": {"38,11": {"cooldown": 0, "destination": {"y": 21, "x": 48}}, "48,21": {}, "10,9": {}, "20,19": {"cooldown": 0, "destination": {"y": 9, "x": 10}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

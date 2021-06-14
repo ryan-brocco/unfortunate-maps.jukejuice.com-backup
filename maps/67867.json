@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Haste (frong polish)", "author": "FLY"}, "portals": {}, "fields": {"5,2": {"defaultState": "blue"}, "30,33": {"defaultState": "red"}}, "switches": {"31,26": {"toggle": [{"pos": {"y": 33, "x": 30}}], "timer": 0}, "4,9": {"toggle": [{"pos": {"y": 2, "x": 5}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

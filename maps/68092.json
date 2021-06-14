@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Stack", "author": "q42 & ThePlaymaker"}, "portals": {}, "fields": {}, "switches": {"46,20": {"toggle": [{"pos": {"y": 20, "x": 50}}], "timer": 0}, "16,20": {"toggle": [{"pos": {"y": 20, "x": 12}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

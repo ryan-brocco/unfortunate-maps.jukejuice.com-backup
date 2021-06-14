@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Six Twenty Eight", "author": "PoppyBall"}, "portals": {"23,5": {}, "23,13": {"cooldown": 0, "destination": {"y": 5, "x": 23}}}, "fields": {}, "switches": {"11,13": {"toggle": [{"pos": {"y": 11, "x": 11}}], "timer": 0}, "35,13": {"toggle": [{"pos": {"y": 11, "x": 35}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

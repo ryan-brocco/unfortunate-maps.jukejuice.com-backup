@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Haste ", "author": "FLY, Fronj, and DragonBeast"}, "portals": {}, "fields": {"2,5": {"defaultState": "blue"}, "33,30": {"defaultState": "red"}}, "switches": {"26,31": {"toggle": [{"pos": {"y": 30, "x": 33}}], "timer": 0}, "9,4": {"toggle": [{"pos": {"y": 5, "x": 2}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

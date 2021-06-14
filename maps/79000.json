@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Thinker", "author": "Flaccid Trip"}, "portals": {}, "fields": {"17,17": {"defaultState": "red"}, "10,39": {"defaultState": "red"}, "39,10": {"defaultState": "blue"}, "32,32": {"defaultState": "blue"}, "18,31": {"defaultState": "on"}, "31,18": {"defaultState": "on"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Spike maze", "author": "Nice Person"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 24, "x": 21, "radius": 5, "weight": 1}], "red": [{"y": 24, "x": 18, "radius": 5, "weight": 1}]}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Epicenter", "author": "Tumblewood"}, "portals": {"4,20": {"cooldown": 500, "destination": {"y": 16, "x": 8}}, "46,4": {"cooldown": 500, "destination": {"y": 8, "x": 42}}, "8,16": {}, "42,8": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

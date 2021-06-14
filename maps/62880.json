@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Landia", "author": "DragonBeast"}, "portals": {"27,5": {"cooldown": 0, "destination": {"y": 5, "x": 33}}, "33,5": {"cooldown": 0, "destination": {"y": 5, "x": 27}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "MIGHTY GARDEN", "author": "this came out a lot dumber than expected sorry"}, "portals": {}, "fields": {"28,17": {"defaultState": "off"}}, "switches": {"22,13": {"toggle": [{"pos": {"y": 17, "x": 28}}], "timer": 0}, "34,13": {"toggle": [{"pos": {"y": 17, "x": 28}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

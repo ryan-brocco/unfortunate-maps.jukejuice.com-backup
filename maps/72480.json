@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "SNAFU", "author": "03z"}, "portals": {}, "fields": {}, "switches": {"28,19": {"toggle": [{"pos": {"y": 20, "x": 28}}], "timer": 0}, "28,9": {"toggle": [{"pos": {"y": 5, "x": 28}}, {"pos": {"y": 7, "x": 28}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

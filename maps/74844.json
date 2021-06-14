@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Untitled", "author": "Anonymous"}, "portals": {}, "fields": {}, "switches": {"38,33": {"toggle": [{"pos": {"y": 32, "x": 38}}, {"pos": {"y": 33, "x": 37}}], "timer": 0}, "24,7": {"toggle": [{"pos": {"y": 8, "x": 24}}, {"pos": {"y": 7, "x": 25}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Node", "author": "Snowball"}, "portals": {"18,8": {"cooldown": 0, "destination": {"y": 10, "x": 16}}, "16,10": {}, "32,14": {}, "30,16": {"cooldown": 0, "destination": {"y": 14, "x": 32}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

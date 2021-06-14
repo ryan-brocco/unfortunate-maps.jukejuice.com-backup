@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Sneak", "author": "Tumblewood"}, "portals": {"2,15": {"cooldown": 500, "destination": {"y": 19, "x": 20}}, "20,19": {}}, "fields": {}, "switches": {"10,5": {"toggle": [{"pos": {"y": 5, "x": 7}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

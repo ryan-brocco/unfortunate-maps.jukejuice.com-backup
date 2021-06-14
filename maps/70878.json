@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "breakgame", "author": "wanye"}, "portals": {"13,6": {"cooldown": 0, "destination": {"y": 13, "x": 6}}, "6,13": {"cooldown": 0, "destination": {"y": 6, "x": 13}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "POWER", "author": "PIZZAspartan and tumblewood"}, "portals": {}, "fields": {}, "switches": {"20,7": {"toggle": [{"pos": {"y": 5, "x": 21}}], "timer": 0}, "22,21": {"toggle": [{"pos": {"y": 23, "x": 21}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

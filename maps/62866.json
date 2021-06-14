@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Serment", "author": "TagPro Map Intelligence Bot & Electro"}, "portals": {"15,14": {}, "18,16": {"cooldown": 0, "destination": {"y": 14, "x": 15}}, "31,16": {}, "28,14": {"cooldown": 0, "destination": {"y": 16, "x": 31}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

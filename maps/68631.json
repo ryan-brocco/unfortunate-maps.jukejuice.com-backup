@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Snowberry", "author": "Ball-erina"}, "portals": {"32,22": {"cooldown": 0, "destination": {"y": 15, "x": 32}}, "32,15": {}}, "fields": {}, "switches": {"21,25": {"toggle": [{"pos": {"y": 25, "x": 19}}], "timer": 0}, "43,25": {"toggle": [{"pos": {"y": 25, "x": 45}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

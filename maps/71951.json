@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Mini Haste", "author": "SmallyBigs"}, "portals": {}, "fields": {"22,23": {"defaultState": "red"}, "3,2": {"defaultState": "blue"}}, "switches": {"3,6": {"toggle": [{"pos": {"y": 2, "x": 3}}], "timer": 0}, "22,19": {"toggle": [{"pos": {"y": 23, "x": 22}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

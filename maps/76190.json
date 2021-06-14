@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Affinity", "author": "OuchMyBalls"}, "portals": {"11,10": {}, "9,11": {"cooldown": 0, "destination": {"y": 9, "x": 11}}, "32,20": {}, "34,19": {"cooldown": 0, "destination": {"y": 21, "x": 32}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

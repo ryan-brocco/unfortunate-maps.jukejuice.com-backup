@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Orderly Jardim", "author": "rh156 & Ball-E"}, "portals": {}, "fields": {}, "switches": {"9,15": {"toggle": [{"pos": {"y": 12, "x": 8}}], "timer": 0}, "21,15": {"toggle": [{"pos": {"y": 18, "x": 22}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

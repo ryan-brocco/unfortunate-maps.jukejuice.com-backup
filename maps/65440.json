@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Dunk", "author": "Tumblewood & PIZZAspartan"}, "portals": {}, "fields": {}, "switches": {"50,13": {"toggle": [{"pos": {"y": 13, "x": 51}}], "timer": 0}, "2,7": {"toggle": [{"pos": {"y": 7, "x": 1}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Ligament", "author": "Anonymous"}, "portals": {}, "fields": {}, "switches": {"10,8": {"toggle": [{"pos": {"y": 6, "x": 12}}], "timer": 0}, "48,8": {"toggle": [{"pos": {"y": 6, "x": 46}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Matador", "author": "A Noob"}, "portals": {}, "fields": {"17,17": {"defaultState": "red"}, "35,17": {"defaultState": "blue"}}, "switches": {"38,15": {"toggle": [{"pos": {"y": 17, "x": 35}}], "timer": 0}, "14,15": {"toggle": [{"pos": {"y": 17, "x": 17}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

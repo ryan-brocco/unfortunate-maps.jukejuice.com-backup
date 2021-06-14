@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Chainlink", "author": "flaccid trip"}, "portals": {}, "fields": {}, "switches": {"11,12": {"toggle": [{"pos": {"y": 15, "x": 12}}], "timer": 0}, "39,16": {"toggle": [{"pos": {"y": 13, "x": 38}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

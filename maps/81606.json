@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Stork", "author": "Electric_wood"}, "portals": {}, "fields": {}, "switches": {"2,15": {"toggle": [{"pos": {"y": 18, "x": 2}}], "timer": 0}, "48,11": {"toggle": [{"pos": {"y": 8, "x": 48}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

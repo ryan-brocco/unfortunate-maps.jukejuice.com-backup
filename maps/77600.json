@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Crunchy", "author": "okthen "}, "portals": {"18,28": {"cooldown": 3, "destination": {"y": 31, "x": 9}}, "26,28": {"cooldown": 3, "destination": {"y": 31, "x": 35}}, "35,31": {}, "9,31": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

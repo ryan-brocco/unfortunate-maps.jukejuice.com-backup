@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Jardim", "author": "rh156, Ball-E & 03z"}, "portals": {}, "fields": {}, "switches": {"16,14": {"toggle": [], "timer": 0}, "14,16": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [{"y": 27, "x": 20, "radius": 3, "weight": 1}], "red": [{"y": 3, "x": 10, "radius": 3, "weight": 1}]}}

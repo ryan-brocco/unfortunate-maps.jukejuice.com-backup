@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Absquatulate", "author": "Irony"}, "portals": {}, "fields": {"10,7": {"defaultState": "off"}, "11,24": {"defaultState": "off"}}, "switches": {"10,23": {"toggle": [{"pos": {"y": 24, "x": 11}}], "timer": 0}, "11,8": {"toggle": [{"pos": {"y": 7, "x": 10}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

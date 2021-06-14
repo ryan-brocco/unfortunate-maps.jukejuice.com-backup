@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Pac-man", "author": "I'm Trying"}, "portals": {"25,14": {}, "25,35": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 27, "x": 32, "radius": 5, "weight": 1}], "red": [{"y": 20, "x": 23, "radius": 5, "weight": 1}]}}

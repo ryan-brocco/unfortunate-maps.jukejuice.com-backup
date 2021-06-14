@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Stromboli", "author": "Fronj"}, "portals": {"37,4": {"cooldown": 5000, "destination": {"y": 4, "x": 27}}, "27,4": {"cooldown": 5000, "destination": {"y": 4, "x": 37}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Component", "author": "Fronj"}, "portals": {}, "fields": {"18,8": {"defaultState": "off"}, "22,30": {"defaultState": "off"}}, "switches": {"18,27": {"toggle": [{"pos": {"y": 30, "x": 22}}], "timer": 0}, "22,11": {"toggle": [{"pos": {"y": 8, "x": 18}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

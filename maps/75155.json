@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Larvae", "author": "flaccid trip"}, "portals": {"38,28": {}, "13,13": {}, "17,29": {"cooldown": 5000, "destination": {"y": 28, "x": 38}}, "34,12": {"cooldown": 5000, "destination": {"y": 13, "x": 13}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

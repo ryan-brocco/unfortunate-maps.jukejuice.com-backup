@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Temple", "author": "ThePlaymaker & PIZZAspartan"}, "portals": {"49,15": {"cooldown": 4422, "destination": {"y": 15, "x": 35}}, "15,15": {}, "35,15": {}, "1,15": {"cooldown": 4422, "destination": {"y": 15, "x": 15}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

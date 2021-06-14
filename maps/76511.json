@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Dive", "author": "Thanos Ball"}, "portals": {}, "fields": {"43,40": {"defaultState": "off"}, "11,6": {"defaultState": "off"}}, "switches": {"45,37": {"toggle": [{"pos": {"y": 40, "x": 43}}], "timer": 0}, "9,9": {"toggle": [{"pos": {"y": 6, "x": 11}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Montagne", "author": "ThePlaymaker & Aniball"}, "portals": {}, "fields": {}, "switches": {"25,2": {"toggle": [{"pos": {"y": 2, "x": 26}}], "timer": 0}, "35,2": {"toggle": [{"pos": {"y": 2, "x": 34}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

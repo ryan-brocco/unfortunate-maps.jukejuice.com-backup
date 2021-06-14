@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Guardian", "author": "Thanos Ball (Equ1 Remix)"}, "portals": {"30,29": {"cooldown": 7000, "destination": {"y": 20, "x": 31}}, "22,29": {"cooldown": 7000, "destination": {"y": 20, "x": 21}}, "21,20": {}, "31,20": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

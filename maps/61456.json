@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Dovetail", "author": "duckson and q42"}, "portals": {"5,9": {}, "53,9": {"cooldown": 0, "destination": {"y": 9, "x": 51}}, "3,9": {"cooldown": 0, "destination": {"y": 9, "x": 5}}, "51,9": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

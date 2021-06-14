@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Coup", "author": "Equ1"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 19, "x": 43, "radius": 2, "weight": 1}, {"y": 21, "x": 43, "radius": 2, "weight": 1}], "red": [{"y": 19, "x": 17, "radius": 2, "weight": 1}, {"y": 21, "x": 17, "radius": 2, "weight": 1}]}}

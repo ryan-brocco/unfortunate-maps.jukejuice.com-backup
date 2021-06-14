@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Burn", "author": "Fronj"}, "portals": {"3,16": {}, "5,11": {"cooldown": 0, "destination": {"y": 16, "x": 3}}, "41,13": {"cooldown": 0, "destination": {"y": 8, "x": 43}}, "43,8": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

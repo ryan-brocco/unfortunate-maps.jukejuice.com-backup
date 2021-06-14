@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "example", "author": "The MTC"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 1, "x": 30, "radius": 5, "weight": 1}], "red": [{"y": 1, "x": 28, "radius": 5, "weight": 1}]}}

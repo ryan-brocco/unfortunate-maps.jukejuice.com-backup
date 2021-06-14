@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Impetus", "author": "leddy"}, "portals": {}, "fields": {}, "switches": {"38,1": {"toggle": [{"pos": {"y": 1, "x": 34}}], "timer": 0}, "16,1": {"toggle": [{"pos": {"y": 1, "x": 20}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [{"y": 17, "x": 43, "radius": 2, "weight": 1}], "red": [{"y": 17, "x": 11, "radius": 2, "weight": 1}]}}

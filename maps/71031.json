@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Segment", "author": "Tumblewood"}, "portals": {"43,11": {}, "41,11": {"cooldown": 0, "destination": {"y": 11, "x": 43}}, "9,15": {"cooldown": 0, "destination": {"y": 15, "x": 7}}, "7,15": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

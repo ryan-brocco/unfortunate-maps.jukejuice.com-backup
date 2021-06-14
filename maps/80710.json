@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Floppy Ears", "author": "Niplepotamus"}, "portals": {}, "fields": {"23,33": {"defaultState": "on"}, "40,20": {"defaultState": "on"}, "6,20": {"defaultState": "on"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 18, "x": 32, "radius": 5, "weight": 1}], "red": [{"y": 18, "x": 14, "radius": 5, "weight": 1}]}}

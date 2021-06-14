@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "JEOPARDY", "author": "FLYMOLO"}, "portals": {}, "fields": {"5,2": {"defaultState": "red"}, "30,33": {"defaultState": "blue"}}, "switches": {"31,25": {"toggle": [{"pos": {"y": 33, "x": 30}}], "timer": 0}, "4,10": {"toggle": [{"pos": {"y": 2, "x": 5}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

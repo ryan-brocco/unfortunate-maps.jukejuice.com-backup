@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Hyper Drive", "author": "WutIsLuv"}, "portals": {}, "fields": {"37,20": {"defaultState": "red"}, "21,20": {"defaultState": "blue"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 12, "x": 27, "radius": 5, "weight": 1}], "red": [{"y": 12, "x": 31, "radius": 5, "weight": 1}]}}

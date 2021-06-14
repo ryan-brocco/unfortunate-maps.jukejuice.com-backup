@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Maybe I should actually name this map", "author": "teg"}, "portals": {}, "fields": {}, "switches": {"32,16": {"toggle": [{"pos": {"y": 16, "x": 29}}], "timer": 0}, "16,16": {"toggle": [{"pos": {"y": 16, "x": 19}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

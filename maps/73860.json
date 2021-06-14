@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Dashcam", "author": "Tumblewood"}, "portals": {}, "fields": {}, "switches": {"35,6": {"toggle": [{"pos": {"y": 7, "x": 38}}], "timer": 0}, "11,16": {"toggle": [{"pos": {"y": 15, "x": 8}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

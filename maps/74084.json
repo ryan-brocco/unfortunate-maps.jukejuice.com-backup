@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Good Ridiculous", "author": "Electric_Wood"}, "portals": {}, "fields": {"49,19": {"defaultState": "off"}, "6,6": {"defaultState": "off"}}, "switches": {"2,14": {"toggle": [{"pos": {"y": 7, "x": 5}}], "timer": 0}, "53,11": {"toggle": [{"pos": {"y": 18, "x": 50}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

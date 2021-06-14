@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "2NF Shuffle", "author": "Cheezedoodle & flaccid trip"}, "portals": {"7,2": {"cooldown": 0, "destination": {"y": 2, "x": 21}}, "42,4": {"cooldown": 0, "destination": {"y": 2, "x": 7}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": [{"y": 3, "x": 7, "radius": 5, "weight": 1}]}}

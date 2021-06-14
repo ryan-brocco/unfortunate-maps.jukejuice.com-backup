@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Kimnel", "author": "cnub65"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 26, "x": 27, "radius": 2, "weight": 1}, {"y": 27, "x": 27, "radius": 3, "weight": 1}], "red": [{"y": 5, "x": 7, "radius": 3, "weight": 1}, {"y": 6, "x": 7, "radius": 2, "weight": 1}]}}

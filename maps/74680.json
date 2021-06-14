@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Bombing Jog", "author": "Vexation, Itagpro and elfitzo"}, "portals": {}, "fields": {}, "switches": {"22,10": {"toggle": [{"pos": {"y": 10, "x": 29}}], "timer": 0}, "10,10": {"toggle": [{"pos": {"y": 10, "x": 3}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "McTwist", "author": "Flaccid Trip"}, "portals": {}, "fields": {"26,15": {"defaultState": "on"}}, "switches": {"21,19": {"toggle": [{"pos": {"y": 21, "x": 18}}], "timer": 0}, "31,19": {"toggle": [{"pos": {"y": 21, "x": 34}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

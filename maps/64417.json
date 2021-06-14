@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Minefield", "author": "Menqr"}, "portals": {}, "fields": {"6,14": {"defaultState": "off"}, "42,8": {"defaultState": "off"}}, "switches": {"44,11": {"toggle": [{"pos": {"y": 8, "x": 42}}], "timer": 0}, "4,11": {"toggle": [{"pos": {"y": 14, "x": 6}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

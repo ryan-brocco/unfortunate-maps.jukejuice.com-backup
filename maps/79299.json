@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Teleblister", "author": "Equ1"}, "portals": {"41,15": {"cooldown": 3000, "destination": {"y": 21, "x": 37}}, "37,21": {}, "7,2": {}, "3,8": {"cooldown": 3000, "destination": {"y": 2, "x": 7}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

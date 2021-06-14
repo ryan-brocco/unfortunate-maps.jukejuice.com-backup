@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Escalator", "author": "Checkmqte"}, "portals": {"18,21": {"cooldown": 5000, "destination": {"y": 18, "x": 21}}, "21,18": {"cooldown": 5000, "destination": {"y": 21, "x": 18}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

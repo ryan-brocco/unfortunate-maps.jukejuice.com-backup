@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Stingray", "author": "ThePlaymaker & DragonBeast"}, "portals": {}, "fields": {}, "switches": {"42,16": {"toggle": [{"pos": {"y": 18, "x": 43}}], "timer": 0}, "4,8": {"toggle": [{"pos": {"y": 6, "x": 3}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

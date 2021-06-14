@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Depot", "author": "Equ1"}, "portals": {"24,11": {"cooldown": 2000, "destination": {"y": 6, "x": 24}}, "24,12": {}, "15,11": {"cooldown": 2000, "destination": {"y": 6, "x": 15}}, "15,12": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

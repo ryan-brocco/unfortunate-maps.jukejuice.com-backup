@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "EIO", "author": "Thanos Ball"}, "portals": {}, "fields": {"10,14": {"defaultState": "on"}, "46,14": {"defaultState": "on"}, "28,9": {"defaultState": "on"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 26, "x": 34, "radius": 2, "weight": 1}], "red": [{"y": 26, "x": 22, "radius": 2, "weight": 1}]}}

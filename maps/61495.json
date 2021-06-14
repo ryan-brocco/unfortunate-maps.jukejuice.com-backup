@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravity", "name": "Rover", "author": "TenD"}, "portals": {}, "fields": {"23,42": {"defaultState": "red"}, "36,17": {"defaultState": "blue"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

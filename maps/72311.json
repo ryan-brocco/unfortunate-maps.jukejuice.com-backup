@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Lolboard", "author": "gingerdg and teg"}, "portals": {}, "fields": {"11,2": {"defaultState": "red"}, "9,62": {"defaultState": "blue"}}, "switches": {"15,58": {"toggle": [{"pos": {"y": 62, "x": 9}}], "timer": 0}, "5,6": {"toggle": [{"pos": {"y": 2, "x": 11}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

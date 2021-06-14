@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Corral", "author": "OuchMyBalls "}, "portals": {"27,8": {}, "15,4": {"cooldown": 0, "destination": {"y": 8, "x": 27}}, "19,24": {"cooldown": 0, "destination": {"y": 20, "x": 7}}, "7,20": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

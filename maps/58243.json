@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Heartbeat City", "author": "Ping Tut"}, "portals": {"19,11": {"cooldown": 0, "destination": {"y": 21, "x": 21}}, "21,21": {"cooldown": 0, "destination": {"y": 11, "x": 19}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

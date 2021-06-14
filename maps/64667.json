@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Citizi", "author": ""}, "portals": {"5,16": {"cooldown": 5000, "destination": {"y": 4, "x": 5}}, "5,4": {"cooldown": 10000, "destination": {"y": 16, "x": 5}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

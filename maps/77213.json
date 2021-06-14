@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Tropical Rain", "author": "Raven"}, "portals": {"34,7": {"cooldown": 5000, "destination": {"y": 23, "x": 24}}, "24,23": {}, "24,7": {"cooldown": 5000, "destination": {"y": 23, "x": 34}}, "34,23": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Haven", "author": "Raven"}, "portals": {"34,17": {"cooldown": 5000, "destination": {"y": 1, "x": 24}}, "24,1": {}, "34,1": {}, "24,17": {"cooldown": 5000, "destination": {"y": 1, "x": 34}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

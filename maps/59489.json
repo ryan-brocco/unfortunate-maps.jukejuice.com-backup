@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "The Upside Down", "author": "Jeremy Jamm"}, "portals": {}, "fields": {"16,15": {"defaultState": "red"}, "15,16": {"defaultState": "red"}, "24,25": {"defaultState": "blue"}, "25,24": {"defaultState": "blue"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Wall Designs", "author": "Ball Designer"}, "portals": {}, "fields": {"15,15": {"defaultState": "off"}, "41,10": {"defaultState": "off"}}, "switches": {"15,16": {"toggle": [{"pos": {"y": 15, "x": 15}}], "timer": 0}, "41,9": {"toggle": [{"pos": {"y": 10, "x": 41}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

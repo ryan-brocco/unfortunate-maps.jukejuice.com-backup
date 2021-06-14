@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Contradiction", "author": "Fronj"}, "portals": {}, "fields": {"20,6": {"defaultState": "off"}, "36,16": {"defaultState": "off"}}, "switches": {"17,6": {"toggle": [{"pos": {"y": 6, "x": 20}}], "timer": 0}, "39,16": {"toggle": [{"pos": {"y": 16, "x": 36}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

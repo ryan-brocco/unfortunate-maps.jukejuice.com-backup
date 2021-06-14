@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Death Match", "author": "WutIsLuv"}, "portals": {"14,4": {}, "19,4": {"cooldown": 0}, "5,4": {"cooldown": 0}, "10,4": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 4, "x": 21, "radius": 1, "weight": 4}], "red": [{"y": 4, "x": 3, "radius": 1, "weight": 4}]}}

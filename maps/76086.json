@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Elimination1v1", "author": "NewCompte"}, "portals": {"5,3": {}, "13,3": {}, "3,8": {"cooldown": 720000, "destination": {"y": 3, "x": 5}}, "15,8": {"cooldown": 720000, "destination": {"y": 3, "x": 13}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

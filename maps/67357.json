@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Clubbed Foot", "author": "Fronj"}, "portals": {}, "fields": {}, "switches": {"50,7": {"toggle": [], "timer": 0}, "2,23": {"toggle": [], "timer": 0}}, "marsballs": [{"y": 15, "x": 26}], "spawnPoints": {"blue": [{"y": 5, "x": 39, "radius": 5, "weight": 1}], "red": [{"y": 25, "x": 13, "radius": 5, "weight": 1}]}}

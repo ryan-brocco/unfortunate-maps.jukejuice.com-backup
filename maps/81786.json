@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Mayhem", "author": "Thanos Ball"}, "portals": {"23,15": {"cooldown": 0, "destination": {"y": 27, "x": 25}}, "25,17": {"cooldown": 0, "destination": {"y": 25, "x": 23}}}, "fields": {}, "switches": {"33,10": {"toggle": [], "timer": 0}, "15,22": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

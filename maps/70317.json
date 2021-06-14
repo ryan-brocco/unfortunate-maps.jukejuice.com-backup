@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Ramble in the Bramble", "author": "Ho-Hum"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 12, "x": 10, "radius": 0, "weight": 1}, {"y": 10, "x": 52, "radius": 5, "weight": 1000}], "red": [{"y": 10, "x": 8, "radius": 5, "weight": 1000}, {"y": 12, "x": 50, "radius": 0, "weight": 1}]}}

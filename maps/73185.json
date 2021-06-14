@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "attempt 1", "author": "Electric_Wood"}, "portals": {}, "fields": {}, "switches": {"22,35": {"toggle": [{"pos": {"y": 36, "x": 25}}, {"pos": {"y": 36, "x": 26}}], "timer": 0}, "8,5": {"toggle": [{"pos": {"y": 4, "x": 5}}, {"pos": {"y": 4, "x": 4}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}
