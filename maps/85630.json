@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Asylum", "author": "Killjoy"}, "portals": {"41,15": {}, "34,14": {"cooldown": 5000, "destination": {"y": 15, "x": 41}}, "12,12": {"cooldown": 5000, "destination": {"y": 11, "x": 5}}, "5,11": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

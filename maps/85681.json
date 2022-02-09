@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Blitz Arena", "author": "Dors"}, "portals": {}, "fields": {"29,19": {"defaultState": "on"}, "29,18": {"defaultState": "on"}, "29,20": {"defaultState": "on"}}, "switches": {"32,17": {"toggle": [], "timer": 0}, "26,17": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

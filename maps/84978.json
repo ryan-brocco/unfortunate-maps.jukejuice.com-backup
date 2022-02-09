@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Supergiant", "author": "Equ1"}, "portals": {"19,24": {"cooldown": 1500, "destination": {"y": 24, "x": 25}}, "25,24": {"cooldown": 1500, "destination": {"y": 24, "x": 19}}}, "fields": {}, "switches": {}, "marsballs": [{"y": 12, "x": 22}], "spawnPoints": {"blue": [], "red": []}}

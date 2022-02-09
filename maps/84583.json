@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Varsity", "author": "ref"}, "portals": {}, "fields": {"11,14": {"defaultState": "red"}, "39,11": {"defaultState": "blue"}, "10,13": {"defaultState": "red"}, "38,10": {"defaultState": "blue"}}, "switches": {"9,15": {"toggle": [], "timer": 0}, "40,9": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "teamportals test", "author": "DaEvil1"}, "portals": {"11,11": {"cooldown": 0, "destination": {"y": 11, "x": 13}}, "13,11": {}, "23,11": {}, "25,11": {"cooldown": 0, "destination": {"y": 11, "x": 23}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

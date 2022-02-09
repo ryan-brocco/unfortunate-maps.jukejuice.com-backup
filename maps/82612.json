@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Parabola", "author": "ooo kill 'em + Fronj"}, "portals": {}, "fields": {"7,13": {"defaultState": "red"}, "37,13": {"defaultState": "blue"}}, "switches": {"14,11": {"toggle": [{"pos": {"y": 13, "x": 7}}], "timer": -1}, "30,15": {"toggle": [{"pos": {"y": 13, "x": 37}}], "timer": -1}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

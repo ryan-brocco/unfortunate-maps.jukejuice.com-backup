@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravityCTF", "name": "mapname", "author": "naga"}, "portals": {}, "fields": {}, "switches": {"9,4": {"toggle": [{"pos": {"y": 16, "x": 9}}], "timer": 0}, "57,4": {"toggle": [{"pos": {"y": 16, "x": 57}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

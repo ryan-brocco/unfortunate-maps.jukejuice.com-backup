@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Sambo", "author": "PIZZAspartan"}, "portals": {}, "fields": {}, "switches": {"24,14": {"toggle": [{"pos": {"y": 15, "x": 25}}], "timer": 0}, "20,10": {"toggle": [{"pos": {"y": 9, "x": 19}}], "timer": 0}}, "marsballs": [{"y": 12, "x": 22}], "spawnPoints": {"blue": [], "red": []}}

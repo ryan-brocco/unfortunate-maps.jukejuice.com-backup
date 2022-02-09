@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Lagrange", "author": "Equ1"}, "portals": {"5,14": {"cooldown": 2000, "destination": {"y": 21, "x": 6}}, "45,18": {"cooldown": 2000, "destination": {"y": 11, "x": 44}}, "44,11": {}, "6,21": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

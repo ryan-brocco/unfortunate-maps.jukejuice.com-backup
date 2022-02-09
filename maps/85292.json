@@ -1,0 +1,1 @@
+{"info": {"gameMode": "gravityCTF", "name": "Daedalus", "author": "Anonymous"}, "portals": {"12,9": {}, "38,19": {"cooldown": 0, "destination": {"y": 9, "x": 34}}, "8,19": {"cooldown": 0, "destination": {"y": 9, "x": 12}}, "34,9": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

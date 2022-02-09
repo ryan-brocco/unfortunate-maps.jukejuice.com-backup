@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Orbital 2", "author": "Euclid"}, "portals": {"9,5": {"cooldown": 0, "destination": {"y": 11, "x": 9}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 6, "x": 9, "radius": 5, "weight": 1}], "red": []}}

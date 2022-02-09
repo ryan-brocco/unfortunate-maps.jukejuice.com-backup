@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Rackham", "author": "A Noob"}, "portals": {}, "fields": {}, "switches": {"10,3": {"toggle": [{"pos": {"y": 4, "x": 8}}], "timer": 0}, "48,3": {"toggle": [{"pos": {"y": 4, "x": 50}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

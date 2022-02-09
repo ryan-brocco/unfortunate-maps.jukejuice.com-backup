@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Coastline", "author": "Equ1"}, "portals": {"9,20": {"cooldown": 0, "destination": {"y": 15, "x": 4}}, "4,15": {}, "39,4": {"cooldown": 0, "destination": {"y": 9, "x": 44}}, "44,9": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

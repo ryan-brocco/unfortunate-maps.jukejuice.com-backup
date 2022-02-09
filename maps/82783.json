@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Clowntown?", "author": "Thanos Ball"}, "portals": {}, "fields": {"26,17": {"defaultState": "off"}}, "switches": {"16,19": {"toggle": [{"pos": {"y": 17, "x": 26}}], "timer": 0}, "36,15": {"toggle": [{"pos": {"y": 17, "x": 26}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "bandito", "author": "naga"}, "portals": {}, "fields": {"38,21": {"defaultState": "off"}, "10,8": {"defaultState": "off"}, "39,20": {"defaultState": "off"}, "9,9": {"defaultState": "off"}}, "switches": {"39,21": {"toggle": [], "timer": 0}, "9,8": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

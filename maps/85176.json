@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "A naga-type Map", "author": "PIZZAspartan"}, "portals": {}, "fields": {"23,9": {"defaultState": "off"}, "21,9": {"defaultState": "off"}}, "switches": {"22,13": {"toggle": [{"pos": {"y": 9, "x": 21}}, {"pos": {"y": 9, "x": 23}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

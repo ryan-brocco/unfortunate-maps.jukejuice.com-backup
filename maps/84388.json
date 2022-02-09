@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "testmap", "author": "DaEvil1"}, "portals": {"12,12": {"cooldown": 0, "destination": {"y": 9, "x": 9}}, "13,13": {}, "10,10": {"cooldown": 0, "destination": {"y": 13, "x": 13}}, "9,9": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

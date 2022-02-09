@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Stadium", "author": "name333"}, "portals": {}, "fields": {}, "switches": {"1,12": {"toggle": [{"pos": {"y": 10, "x": 0}}], "timer": 0}, "41,12": {"toggle": [{"pos": {"y": 10, "x": 42}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

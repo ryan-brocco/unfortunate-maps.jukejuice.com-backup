@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Pendragon", "author": "Electric_wood"}, "portals": {"1,10": {"cooldown": 4000, "destination": {"y": 10, "x": 8}}, "8,10": {}, "42,12": {}, "49,12": {"cooldown": 4000, "destination": {"y": 12, "x": 42}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

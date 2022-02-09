@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Tangerine Temple (Penguin Remix)", "author": "Homer Jay"}, "portals": {"6,15": {}, "11,19": {"cooldown": 4000, "destination": {"y": 15, "x": 6}}, "37,11": {"cooldown": 4000, "destination": {"y": 15, "x": 42}}, "42,15": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

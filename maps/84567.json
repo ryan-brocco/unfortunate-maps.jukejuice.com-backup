@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Laser Lab s", "author": "Ball-E"}, "portals": {}, "fields": {}, "switches": {"26,12": {"toggle": [{"pos": {"y": 10, "x": 26}}], "timer": 0}, "18,24": {"toggle": [{"pos": {"y": 26, "x": 18}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

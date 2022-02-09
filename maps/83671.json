@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Diagonal Constriction", "author": "Rapture + sam"}, "portals": {}, "fields": {"26,17": {"defaultState": "on"}}, "switches": {"33,18": {"toggle": [{"pos": {"y": 11, "x": 32}}], "timer": 0}, "25,10": {"toggle": [{"pos": {"y": 11, "x": 32}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}
