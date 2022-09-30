@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "A Snack-type Map", "author": "Fronj + spacey + hd"}, "portals": {"13,24": {"cooldown": 3000, "destination": {"y": 28, "x": 13}}, "13,28": {"cooldown": 3000, "destination": {"y": 24, "x": 13}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

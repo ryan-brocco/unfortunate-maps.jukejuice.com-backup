@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "PATO", "author": "FLY"}, "portals": {"33,32": {}, "35,32": {"cooldown": 0, "destination": {"y": 32, "x": 33}}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 32, "x": 40, "radius": 1, "weight": 1}], "red": [{"y": 33, "x": 40, "radius": 1, "weight": 1}]}}

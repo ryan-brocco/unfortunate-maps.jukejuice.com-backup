@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Taters Precious", "author": "(frodo)"}, "portals": {}, "fields": {"12,21": {"defaultState": "on"}, "22,9": {"defaultState": "on"}}, "switches": {"21,10": {"toggle": [], "timer": 1}, "13,20": {"toggle": [], "timer": 1}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

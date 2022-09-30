@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Bombing Raid", "author": "LuckySpammer ft. ? and ThePlaymaker"}, "portals": {}, "fields": {}, "switches": {"30,11": {"toggle": [{"pos": {"y": 11, "x": 38}}], "timer": 2.5}, "10,11": {"toggle": [{"pos": {"y": 11, "x": 2}}], "timer": 2.5}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Mavelto", "author": "Boo"}, "portals": {"33,21": {}, "27,13": {}, "35,28": {"cooldown": 0, "destination": {"y": 21, "x": 33}}, "25,6": {"cooldown": 0, "destination": {"y": 13, "x": 27}}}, "fields": {"30,17": {"defaultState": "on"}}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

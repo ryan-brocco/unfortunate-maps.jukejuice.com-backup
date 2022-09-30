@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Chamber", "author": "MC Ride"}, "portals": {}, "fields": {"14,40": {"defaultState": "off"}, "14,41": {"defaultState": "off"}, "14,42": {"defaultState": "off"}}, "switches": {"12,41": {"toggle": [], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

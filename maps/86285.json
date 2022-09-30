@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Pompeii", "author": "Thanos Ball"}, "portals": {}, "fields": {}, "switches": {"41,15": {"toggle": [{"pos": {"y": 20, "x": 52}}], "timer": 0}, "13,11": {"toggle": [{"pos": {"y": 6, "x": 2}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

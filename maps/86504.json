@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Quails", "author": "Loaha"}, "portals": {}, "fields": {}, "switches": {"38,8": {"toggle": [{"pos": {"y": 9, "x": 36}}, {"pos": {"y": 8, "x": 35}}], "timer": 0}, "16,8": {"toggle": [{"pos": {"y": 9, "x": 18}}, {"pos": {"y": 8, "x": 19}}], "timer": 0}}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}

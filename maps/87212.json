@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Granular", "author": "Electric_wood"}, "portals": {"30,10": {}, "35,8": {"cooldown": 0, "destination": {"y": 14, "x": 26}}, "21,16": {"cooldown": 0, "destination": {"y": 10, "x": 30}}, "26,14": {}}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [], "red": []}}
