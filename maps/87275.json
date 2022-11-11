@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "Open Field Masterss", "author": "PrivateMajor"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 4, "x": 6, "radius": 5, "weight": 1}, {"y": 14, "x": 18, "radius": 5, "weight": 1}], "red": [{"y": 14, "x": 6, "radius": 5, "weight": 1}, {"y": 4, "x": 18, "radius": 5, "weight": 1}]}}

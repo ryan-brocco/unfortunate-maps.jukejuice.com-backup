@@ -1,0 +1,1 @@
+{"info": {"gameMode": "normal", "name": "OTI Open Field Masters", "author": "okthen"}, "portals": {}, "fields": {}, "switches": {}, "marsballs": [], "spawnPoints": {"blue": [{"y": 2, "x": 5, "radius": 5, "weight": 1}, {"y": 16, "x": 19, "radius": 5, "weight": 1}], "red": [{"y": 16, "x": 5, "radius": 5, "weight": 1}, {"y": 2, "x": 19, "radius": 5, "weight": 1}]}}
